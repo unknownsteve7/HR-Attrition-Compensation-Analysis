@@ -1,0 +1,1052 @@
+EmployeeID,ReviewPeriod,PerformanceRating,PromotionFlag,ReviewerComments
+1313,2024-H1,3,FALSE,Needs improvement in communication
+1361,2025-H1,4,FALSE,
+1260,2023-H1,3,FALSE,Strong technical contribution
+1207,2025-H1,3,FALSE,Good team collaboration
+1390,2024-H1,4,FALSE,Consistently meets expectations
+1127,2025-H1,2,FALSE,Consistently meets expectations
+1060,2023-H2,4,FALSE,Outstanding leadership shown
+1283,2023-H2,3,FALSE,Below expectations this period
+1035,2023-H2,2,FALSE,Consistently meets expectations
+1193,2023-H2,3,TRUE,Exceeds expectations in delivery
+1024,2025-H1,3,FALSE,Exceeds expectations in delivery
+1153,2025-H1,4,FALSE,Below expectations this period
+1347,2023-H1,4,FALSE,Outstanding leadership shown
+1150,2024-H2,3,FALSE,
+1239,2025-H1,4,FALSE,Exceeds expectations in delivery
+1153,2023-H1,4,FALSE,
+1369,2024-H1,4,FALSE,
+1058,2023-H2,2,FALSE,Needs improvement in communication
+1039,2023-H2,4,FALSE,Exceeds expectations in delivery
+1016,2024-H2,4,TRUE,Strong technical contribution
+1199,2024-H1,5,FALSE,
+1362,2023-H2,3,FALSE,Consistently meets expectations
+1101,2023-H1,4,FALSE,Outstanding leadership shown
+1117,2025-H1,4,FALSE,
+1313,2024-H1,3,FALSE,Needs improvement in communication
+1251,2023-H2,3,FALSE,Strong technical contribution
+1182,2024-H1,4,FALSE,Consistently meets expectations
+1241,2025-H1,1,TRUE,
+1170,2024-H1,4,TRUE,Below expectations this period
+1050,2024-H1,3,FALSE,Good team collaboration
+1346,2023-H1,4,FALSE,Exceeds expectations in delivery
+1144,2023-H2,3,FALSE,Exceeds expectations in delivery
+1324,2023-H1,3,FALSE,Below expectations this period
+1338,2024-H2,5,FALSE,
+1373,2023-H2,4,FALSE,Outstanding leadership shown
+1120,2024-H1,3,FALSE,Good team collaboration
+1234,2024-H1,4,FALSE,
+1011,2024-H1,5,FALSE,Consistently meets expectations
+1250,2024-H2,4,FALSE,Strong technical contribution
+1113,2023-H2,3,FALSE,Exceeds expectations in delivery
+9051,2024-H2,3,FALSE,
+1041,2024-H1,3,FALSE,Good team collaboration
+1069,2025-H1,4,FALSE,Consistently meets expectations
+1253,2024-H2,3,FALSE,Outstanding leadership shown
+1175,2024-H1,4,FALSE,
+1386,2025-H1,5,FALSE,Exceeds expectations in delivery
+1362,2023-H1,3,FALSE,Needs improvement in communication
+1048,2024-H1,3,FALSE,Consistently meets expectations
+1259,2023-H2,2,FALSE,Below expectations this period
+1170,2023-H1,4,FALSE,
+1189,2023-H1,4,FALSE,Strong technical contribution
+1052,2025-H1,4,FALSE,Outstanding leadership shown
+1096,2025-H1,4,FALSE,
+1017,2023-H2,5,FALSE,Outstanding leadership shown
+1050,2023-H2,3,FALSE,Strong technical contribution
+1282,2023-H1,3,FALSE,Exceeds expectations in delivery
+1054,2024-H1,4,FALSE,Good team collaboration
+1031,2024-H2,5,FALSE,
+1052,2024-H2,3,FALSE,
+1134,2023-H2,2,FALSE,Needs improvement in communication
+1131,2024-H2,3,FALSE,
+1270,2024-H1,5,FALSE,Consistently meets expectations
+1261,2025-H1,3,FALSE,Good team collaboration
+1164,2024-H2,4,FALSE,Good team collaboration
+1016,2023-H2,4,TRUE,
+1241,2024-H1,4,FALSE,Exceeds expectations in delivery
+1085,2024-H2,5,FALSE,Good team collaboration
+1006,2023-H1,3,FALSE,Below expectations this period
+1105,2024-H2,4,TRUE,Good team collaboration
+1200,2025-H1,4,FALSE,Outstanding leadership shown
+1378,2024-H2,3,FALSE,Outstanding leadership shown
+1076,2024-H2,3,FALSE,Consistently meets expectations
+1288,2024-H2,4,FALSE,Below expectations this period
+1349,2024-H2,3,FALSE,Exceeds expectations in delivery
+1206,2024-H1,4,FALSE,Below expectations this period
+1078,2024-H1,4,FALSE,Outstanding leadership shown
+1300,2024-H2,3,FALSE,Outstanding leadership shown
+1227,2025-H1,5,FALSE,Outstanding leadership shown
+1055,2025-H1,3,FALSE,
+1155,2024-H2,3,FALSE,Exceeds expectations in delivery
+1127,2024-H2,4,FALSE,Exceeds expectations in delivery
+1019,2023-H2,4,TRUE,
+1214,2023-H1,4,FALSE,Outstanding leadership shown
+1262,2023-H1,3,FALSE,
+1024,2023-H1,4,FALSE,Good team collaboration
+1163,2025-H1,4,FALSE,Needs improvement in communication
+1243,2023-H2,4,FALSE,Exceeds expectations in delivery
+1106,2024-H2,4,FALSE,
+1068,2024-H1,2,FALSE,Consistently meets expectations
+1164,2024-H1,5,FALSE,Below expectations this period
+1312,2023-H2,4,FALSE,Below expectations this period
+1370,2024-H2,4,FALSE,
+1075,2025-H1,4,FALSE,
+1044,2023-H2,4,FALSE,
+1028,2024-H1,2,FALSE,Exceeds expectations in delivery
+1403,2024-H1,4,FALSE,Consistently meets expectations
+1145,2025-H1,3,FALSE,Below expectations this period
+1073,2023-H1,4,FALSE,Good team collaboration
+1070,2025-H1,4,FALSE,
+1384,2024-H2,3,FALSE,Below expectations this period
+1373,2023-H1,4,FALSE,Consistently meets expectations
+1049,2023-H2,3,FALSE,Outstanding leadership shown
+1256,2024-H2,3,FALSE,Good team collaboration
+1023,2023-H1,3,FALSE,Exceeds expectations in delivery
+1239,2023-H2,1,FALSE,Needs improvement in communication
+1309,2024-H1,3,TRUE,
+1344,2023-H1,3,FALSE,
+1167,2025-H1,3,FALSE,
+1216,2023-H1,5,TRUE,Exceeds expectations in delivery
+1239,2024-H1,5,FALSE,
+1114,2024-H2,3,FALSE,Outstanding leadership shown
+1045,2024-H2,4,FALSE,Outstanding leadership shown
+1193,2024-H1,3,FALSE,Below expectations this period
+1200,2023-H1,3,FALSE,Exceeds expectations in delivery
+1218,2025-H1,4,FALSE,Exceeds expectations in delivery
+1183,2024-H2,5,FALSE,Exceeds expectations in delivery
+1201,2024-H1,5,TRUE,Consistently meets expectations
+1350,2024-H1,2,FALSE,
+1082,2023-H1,5,FALSE,Below expectations this period
+1377,2025-H1,5,FALSE,Consistently meets expectations
+1347,2024-H2,3,FALSE,Good team collaboration
+1216,2024-H1,2,FALSE,Needs improvement in communication
+1188,2025-H1,4,FALSE,Exceeds expectations in delivery
+1311,2024-H2,4,FALSE,Below expectations this period
+1292,2025-H1,3,TRUE,Exceeds expectations in delivery
+1399,2023-H1,3,FALSE,Outstanding leadership shown
+1073,2024-H1,3,FALSE,Exceeds expectations in delivery
+1372,2023-H2,4,FALSE,Consistently meets expectations
+1098,2023-H2,3,FALSE,Exceeds expectations in delivery
+1231,2024-H2,4,FALSE,
+1221,2024-H2,2,FALSE,Outstanding leadership shown
+1307,2023-H2,3,FALSE,Outstanding leadership shown
+1119,2024-H2,4,FALSE,Needs improvement in communication
+1104,2024-H1,3,FALSE,Consistently meets expectations
+1138,2024-H2,4,TRUE,Outstanding leadership shown
+1370,2023-H1,5,FALSE,Good team collaboration
+1316,2025-H1,4,FALSE,Strong technical contribution
+1197,2023-H2,2,FALSE,Below expectations this period
+1129,2024-H2,3,FALSE,Outstanding leadership shown
+1104,2023-H1,4,FALSE,
+1387,2023-H2,5,FALSE,
+1122,2024-H1,4,FALSE,Strong technical contribution
+1379,2025-H1,2,FALSE,Outstanding leadership shown
+1268,2023-H1,4,FALSE,
+1352,2023-H1,4,FALSE,Exceeds expectations in delivery
+1128,2024-H1,4,FALSE,Needs improvement in communication
+1358,2023-H1,4,TRUE,Needs improvement in communication
+1386,2024-H1,4,FALSE,Exceeds expectations in delivery
+1206,2023-H2,4,FALSE,
+1278,2024-H1,3,FALSE,Good team collaboration
+1221,2023-H2,4,FALSE,Consistently meets expectations
+1295,2023-H1,3,FALSE,
+1205,2024-H2,3,FALSE,
+1016,2023-H1,4,TRUE,Good team collaboration
+1326,2025-H1,3,FALSE,Needs improvement in communication
+1358,2024-H2,4,FALSE,Good team collaboration
+1175,2025-H1,3,FALSE,Needs improvement in communication
+1167,2024-H2,1,FALSE,Exceeds expectations in delivery
+1255,2024-H1,2,FALSE,Below expectations this period
+1038,2025-H1,4,FALSE,
+1097,2025-H1,3,FALSE,Good team collaboration
+1276,2024-H2,4,FALSE,Needs improvement in communication
+1011,2023-H2,2,FALSE,
+1323,2025-H1,4,TRUE,Needs improvement in communication
+1115,2024-H1,3,FALSE,Consistently meets expectations
+1113,2023-H1,4,FALSE,Below expectations this period
+1138,2024-H1,2,FALSE,Consistently meets expectations
+1255,2025-H1,4,TRUE,Strong technical contribution
+1175,2024-H2,4,FALSE,Consistently meets expectations
+1371,2024-H2,4,FALSE,
+1228,2024-H1,3,FALSE,Below expectations this period
+1167,2023-H2,3,FALSE,Needs improvement in communication
+1350,2023-H1,5,TRUE,Good team collaboration
+1075,2023-H2,3,FALSE,Below expectations this period
+1374,2023-H2,3,FALSE,Consistently meets expectations
+1314,2023-H1,5,FALSE,
+1025,2023-H2,3,FALSE,Exceeds expectations in delivery
+1251,2024-H2,4,FALSE,
+1069,2023-H1,4,FALSE,Consistently meets expectations
+1252,2023-H2,4,FALSE,
+1342,2023-H2,5,FALSE,
+1254,2023-H1,2,FALSE,Needs improvement in communication
+1043,2023-H2,3,FALSE,Consistently meets expectations
+1333,2024-H2,5,FALSE,Exceeds expectations in delivery
+1202,2023-H2,3,FALSE,Below expectations this period
+1087,2023-H2,3,FALSE,Needs improvement in communication
+1359,2024-H1,4,FALSE,Exceeds expectations in delivery
+1126,2023-H2,3,TRUE,Needs improvement in communication
+1033,2024-H2,3,TRUE,Strong technical contribution
+1318,2024-H1,3,FALSE,
+1353,2024-H1,5,FALSE,
+1218,2023-H2,1,TRUE,Strong technical contribution
+1084,2024-H1,5,FALSE,Consistently meets expectations
+1339,2024-H2,3,FALSE,Consistently meets expectations
+1335,2025-H1,3,FALSE,Outstanding leadership shown
+1316,2023-H1,3,FALSE,Exceeds expectations in delivery
+1285,2024-H2,4,FALSE,Below expectations this period
+1302,2024-H2,3,FALSE,
+1110,2024-H2,5,FALSE,Needs improvement in communication
+1358,2023-H2,5,FALSE,Exceeds expectations in delivery
+1054,2024-H2,4,FALSE,Outstanding leadership shown
+1341,2023-H1,3,FALSE,Good team collaboration
+1046,2025-H1,4,FALSE,Strong technical contribution
+1287,2024-H2,1,FALSE,Consistently meets expectations
+1001,2024-H1,5,FALSE,Outstanding leadership shown
+1015,2023-H1,1,FALSE,Strong technical contribution
+1402,2025-H1,3,FALSE,Needs improvement in communication
+1406,2023-H1,3,FALSE,Good team collaboration
+1078,2023-H2,4,FALSE,Consistently meets expectations
+1076,2023-H2,3,FALSE,Needs improvement in communication
+1253,2025-H1,3,FALSE,Needs improvement in communication
+1390,2023-H2,5,FALSE,Strong technical contribution
+1406,2023-H2,5,FALSE,Outstanding leadership shown
+1067,2023-H2,4,FALSE,Good team collaboration
+1224,2023-H2,4,FALSE,
+1191,2024-H2,4,FALSE,Outstanding leadership shown
+1257,2025-H1,2,FALSE,Strong technical contribution
+1095,2024-H1,5,FALSE,Outstanding leadership shown
+1392,2023-H2,1,FALSE,
+1072,2024-H2,4,FALSE,
+1180,2023-H2,5,FALSE,Good team collaboration
+1017,2024-H1,4,FALSE,Outstanding leadership shown
+1100,2024-H2,3,FALSE,Needs improvement in communication
+1182,2023-H1,3,FALSE,
+1156,2023-H1,5,FALSE,Needs improvement in communication
+1294,2024-H2,5,FALSE,Strong technical contribution
+1116,2024-H1,3,FALSE,Exceeds expectations in delivery
+1240,2025-H1,3,FALSE,Strong technical contribution
+1203,2023-H1,5,FALSE,
+1286,2025-H1,5,FALSE,
+1281,2024-H2,3,FALSE,
+1301,2024-H2,4,FALSE,Strong technical contribution
+1213,2024-H1,4,FALSE,Outstanding leadership shown
+1053,2023-H1,2,FALSE,Strong technical contribution
+1031,2023-H2,4,FALSE,Below expectations this period
+1086,2023-H2,4,FALSE,Outstanding leadership shown
+1156,2024-H1,5,FALSE,Below expectations this period
+1106,2023-H2,3,FALSE,Below expectations this period
+1394,2025-H1,1,FALSE,Below expectations this period
+1223,2023-H1,3,FALSE,Outstanding leadership shown
+1189,2023-H2,5,FALSE,
+1223,2025-H1,3,FALSE,Good team collaboration
+1197,2023-H1,4,FALSE,Needs improvement in communication
+1048,2025-H1,4,FALSE,Needs improvement in communication
+1393,2023-H1,3,FALSE,
+1004,2024-H1,4,FALSE,Outstanding leadership shown
+1217,2025-H1,2,FALSE,Strong technical contribution
+1014,2024-H2,5,FALSE,Strong technical contribution
+1150,2023-H2,3,FALSE,Outstanding leadership shown
+1088,2023-H2,4,FALSE,
+1348,2024-H2,2,FALSE,Good team collaboration
+1348,2023-H2,5,TRUE,Consistently meets expectations
+1308,2023-H2,3,FALSE,Needs improvement in communication
+1319,2024-H1,4,FALSE,Strong technical contribution
+1232,2024-H2,5,FALSE,Needs improvement in communication
+1101,2024-H1,4,FALSE,Outstanding leadership shown
+1163,2023-H2,4,FALSE,Exceeds expectations in delivery
+1352,2025-H1,2,FALSE,Strong technical contribution
+1279,2025-H1,5,FALSE,Exceeds expectations in delivery
+1019,2023-H1,4,FALSE,
+1348,2023-H1,3,FALSE,Below expectations this period
+1347,2023-H2,4,TRUE,Consistently meets expectations
+1107,2024-H2,4,TRUE,Below expectations this period
+1001,2025-H1,5,FALSE,Strong technical contribution
+1093,2024-H2,2,FALSE,Exceeds expectations in delivery
+1389,2024-H1,4,FALSE,Consistently meets expectations
+1068,2024-H2,3,FALSE,Needs improvement in communication
+1327,2023-H1,5,FALSE,
+1326,2023-H2,4,FALSE,Good team collaboration
+1286,2024-H2,2,FALSE,Strong technical contribution
+1404,2024-H1,3,FALSE,Strong technical contribution
+1182,2024-H2,3,FALSE,Consistently meets expectations
+1196,2024-H2,5,FALSE,Below expectations this period
+1277,2025-H1,3,FALSE,Consistently meets expectations
+1302,2025-H1,5,FALSE,Needs improvement in communication
+1332,2023-H1,5,FALSE,
+1233,2023-H1,4,FALSE,Good team collaboration
+1223,2023-H2,3,FALSE,Exceeds expectations in delivery
+1093,2023-H2,5,FALSE,Needs improvement in communication
+1028,2024-H2,4,FALSE,Below expectations this period
+1026,2024-H1,4,FALSE,Needs improvement in communication
+1376,2024-H2,1,FALSE,Exceeds expectations in delivery
+1184,2023-H1,4,FALSE,Exceeds expectations in delivery
+1235,2025-H1,3,FALSE,Strong technical contribution
+1350,2025-H1,5,FALSE,Good team collaboration
+1047,2023-H1,5,FALSE,Exceeds expectations in delivery
+1083,2024-H1,3,FALSE,Below expectations this period
+1369,2023-H1,5,FALSE,
+1244,2023-H1,4,FALSE,
+1160,2025-H1,4,FALSE,
+1307,2023-H1,5,FALSE,Below expectations this period
+1364,2025-H1,3,FALSE,
+1252,2023-H1,3,FALSE,Good team collaboration
+1368,2024-H2,3,TRUE,Needs improvement in communication
+1004,2025-H1,2,FALSE,Below expectations this period
+1039,2025-H1,4,FALSE,Strong technical contribution
+1384,2024-H1,3,FALSE,Below expectations this period
+1100,2023-H2,4,FALSE,
+1363,2025-H1,5,FALSE,Outstanding leadership shown
+1143,2023-H2,5,FALSE,
+1055,2024-H1,5,FALSE,Consistently meets expectations
+1320,2024-H2,3,FALSE,Exceeds expectations in delivery
+1048,2023-H2,5,FALSE,Exceeds expectations in delivery
+1041,2024-H2,3,FALSE,Good team collaboration
+1022,2024-H1,3,FALSE,Below expectations this period
+1263,2023-H2,3,TRUE,
+1178,2023-H1,4,FALSE,Strong technical contribution
+1040,2025-H1,4,FALSE,Outstanding leadership shown
+1060,2024-H2,4,FALSE,Needs improvement in communication
+1029,2023-H1,2,FALSE,Needs improvement in communication
+1383,2023-H2,2,TRUE,Exceeds expectations in delivery
+1075,2024-H2,3,FALSE,Good team collaboration
+1128,2024-H2,3,FALSE,Needs improvement in communication
+1229,2023-H2,4,FALSE,Good team collaboration
+1280,2024-H2,4,FALSE,Strong technical contribution
+1174,2023-H1,5,FALSE,Below expectations this period
+1246,2024-H2,1,FALSE,Good team collaboration
+1404,2023-H1,4,FALSE,Consistently meets expectations
+1281,2024-H1,4,FALSE,Good team collaboration
+1283,2024-H2,4,FALSE,Exceeds expectations in delivery
+1056,2023-H1,4,FALSE,Exceeds expectations in delivery
+1404,2024-H2,4,FALSE,Consistently meets expectations
+1218,2023-H1,4,FALSE,Needs improvement in communication
+1064,2023-H2,4,FALSE,Strong technical contribution
+1138,2025-H1,4,FALSE,Good team collaboration
+1135,2024-H2,5,FALSE,Consistently meets expectations
+1136,2024-H2,3,FALSE,Consistently meets expectations
+1333,2023-H2,4,FALSE,Good team collaboration
+1212,2025-H1,4,FALSE,Consistently meets expectations
+1115,2024-H2,4,TRUE,Consistently meets expectations
+1307,2025-H1,4,FALSE,Below expectations this period
+1314,2025-H1,4,FALSE,Outstanding leadership shown
+1260,2024-H1,3,FALSE,Strong technical contribution
+1239,2024-H2,3,FALSE,
+1243,2025-H1,4,FALSE,Needs improvement in communication
+1036,2023-H1,3,FALSE,
+1070,2024-H1,4,FALSE,Below expectations this period
+1151,2023-H1,4,FALSE,Exceeds expectations in delivery
+1297,2024-H2,4,FALSE,Needs improvement in communication
+1191,2023-H2,4,FALSE,Strong technical contribution
+1067,2025-H1,4,FALSE,
+1164,2025-H1,4,FALSE,Strong technical contribution
+1030,2024-H2,5,FALSE,Exceeds expectations in delivery
+1325,2024-H1,1,FALSE,Exceeds expectations in delivery
+1109,2023-H2,3,FALSE,
+1037,2023-H2,4,FALSE,
+1375,2023-H2,4,FALSE,Strong technical contribution
+1365,2024-H2,4,FALSE,
+1068,2023-H2,1,FALSE,Strong technical contribution
+1231,2025-H1,4,FALSE,Outstanding leadership shown
+1076,2024-H1,4,FALSE,Needs improvement in communication
+1333,2025-H1,3,FALSE,Exceeds expectations in delivery
+1036,2025-H1,4,FALSE,
+1081,2024-H1,2,FALSE,Strong technical contribution
+1211,2025-H1,5,FALSE,Consistently meets expectations
+1257,2024-H1,4,FALSE,Needs improvement in communication
+1222,2024-H1,4,FALSE,Outstanding leadership shown
+1332,2024-H2,5,FALSE,Needs improvement in communication
+1342,2024-H1,3,FALSE,
+1232,2025-H1,4,FALSE,Outstanding leadership shown
+1160,2024-H2,3,FALSE,Good team collaboration
+1312,2025-H1,3,FALSE,Exceeds expectations in delivery
+1339,2023-H1,1,FALSE,Exceeds expectations in delivery
+1194,2025-H1,5,FALSE,Exceeds expectations in delivery
+1385,2023-H1,5,FALSE,Below expectations this period
+1366,2025-H1,5,FALSE,Good team collaboration
+1267,2024-H2,1,FALSE,Consistently meets expectations
+1062,2024-H1,4,FALSE,Consistently meets expectations
+1050,2024-H2,3,FALSE,
+1159,2024-H2,3,FALSE,Exceeds expectations in delivery
+1366,2023-H2,4,FALSE,Outstanding leadership shown
+1208,2023-H2,4,TRUE,Below expectations this period
+1322,2023-H2,5,FALSE,Needs improvement in communication
+1178,2025-H1,4,FALSE,
+1364,2024-H1,5,FALSE,Good team collaboration
+1314,2023-H2,3,FALSE,Outstanding leadership shown
+1213,2023-H2,5,FALSE,Exceeds expectations in delivery
+1398,2024-H2,5,FALSE,Strong technical contribution
+1154,2024-H1,4,FALSE,Below expectations this period
+1304,2023-H1,4,FALSE,Needs improvement in communication
+1170,2023-H2,4,FALSE,Outstanding leadership shown
+1106,2023-H1,5,FALSE,Good team collaboration
+1029,2023-H2,5,FALSE,
+1198,2025-H1,3,FALSE,Outstanding leadership shown
+1137,2024-H1,3,FALSE,Exceeds expectations in delivery
+1313,2023-H2,4,TRUE,
+1226,2023-H2,3,FALSE,Strong technical contribution
+1298,2024-H1,5,FALSE,Exceeds expectations in delivery
+1032,2023-H2,4,FALSE,Exceeds expectations in delivery
+1264,2024-H2,4,FALSE,
+1065,2025-H1,2,FALSE,Outstanding leadership shown
+1268,2025-H1,4,FALSE,Below expectations this period
+1043,2024-H1,3,FALSE,Needs improvement in communication
+1300,2025-H1,4,FALSE,Strong technical contribution
+1330,2023-H2,1,FALSE,Good team collaboration
+1103,2025-H1,4,FALSE,Below expectations this period
+1046,2024-H1,5,FALSE,Outstanding leadership shown
+1392,2023-H1,4,FALSE,Consistently meets expectations
+1094,2023-H1,5,FALSE,
+1110,2024-H1,3,FALSE,Exceeds expectations in delivery
+1045,2024-H1,3,FALSE,Needs improvement in communication
+1268,2024-H1,5,FALSE,Needs improvement in communication
+1055,2024-H2,3,FALSE,Outstanding leadership shown
+1344,2025-H1,4,FALSE,Exceeds expectations in delivery
+1168,2023-H1,3,FALSE,Exceeds expectations in delivery
+1038,2023-H1,5,TRUE,Consistently meets expectations
+1077,2023-H1,3,FALSE,
+1311,2024-H1,3,FALSE,Needs improvement in communication
+1316,2024-H1,4,FALSE,Consistently meets expectations
+1142,2023-H2,4,TRUE,
+1402,2023-H1,5,TRUE,
+1073,2024-H2,4,FALSE,Exceeds expectations in delivery
+1299,2023-H1,4,FALSE,Exceeds expectations in delivery
+1246,2023-H2,4,FALSE,
+1247,2024-H2,3,FALSE,Consistently meets expectations
+1291,2023-H1,2,FALSE,
+1090,2023-H2,4,FALSE,Below expectations this period
+1286,2023-H1,3,FALSE,Good team collaboration
+1057,2023-H2,3,FALSE,
+1010,2024-H2,3,FALSE,Below expectations this period
+1073,2023-H2,3,FALSE,
+1002,2025-H1,3,FALSE,Below expectations this period
+1303,2023-H2,3,FALSE,
+1103,2024-H2,3,FALSE,Exceeds expectations in delivery
+1085,2023-H1,5,FALSE,Outstanding leadership shown
+1021,2024-H1,5,TRUE,Outstanding leadership shown
+1192,2024-H2,4,FALSE,
+1381,2023-H1,4,FALSE,Below expectations this period
+1024,2024-H2,4,FALSE,Good team collaboration
+1284,2023-H1,3,FALSE,Below expectations this period
+1325,2023-H1,4,FALSE,Strong technical contribution
+1090,2024-H2,4,FALSE,Below expectations this period
+1148,2025-H1,3,FALSE,
+1370,2024-H1,3,FALSE,Needs improvement in communication
+1349,2023-H1,5,FALSE,Strong technical contribution
+1198,2024-H2,3,FALSE,
+1048,2024-H2,3,FALSE,Needs improvement in communication
+1123,2024-H2,3,FALSE,Consistently meets expectations
+1250,2025-H1,4,FALSE,
+1039,2023-H1,5,FALSE,Outstanding leadership shown
+1084,2023-H2,4,FALSE,Exceeds expectations in delivery
+1110,2023-H1,3,FALSE,Good team collaboration
+1130,2023-H2,4,FALSE,
+1038,2024-H2,3,FALSE,Outstanding leadership shown
+1123,2024-H1,4,FALSE,Good team collaboration
+1181,2024-H1,3,FALSE,Below expectations this period
+1306,2023-H2,4,FALSE,Good team collaboration
+1270,2023-H1,3,FALSE,
+1109,2023-H1,5,TRUE,Strong technical contribution
+1317,2024-H2,4,FALSE,Below expectations this period
+1379,2024-H1,5,TRUE,Needs improvement in communication
+1236,2025-H1,3,FALSE,
+1141,2025-H1,5,FALSE,Below expectations this period
+1252,2024-H2,4,FALSE,
+1174,2024-H1,3,FALSE,Below expectations this period
+1028,2025-H1,4,FALSE,Outstanding leadership shown
+1273,2024-H2,3,FALSE,Good team collaboration
+1360,2024-H1,4,TRUE,Good team collaboration
+1336,2023-H2,5,FALSE,Strong technical contribution
+1149,2024-H1,4,FALSE,Needs improvement in communication
+1156,2025-H1,4,FALSE,Outstanding leadership shown
+1212,2024-H1,5,FALSE,Needs improvement in communication
+1273,2023-H1,4,FALSE,
+1097,2024-H2,3,FALSE,Exceeds expectations in delivery
+1179,2024-H1,2,FALSE,Strong technical contribution
+1142,2023-H1,5,FALSE,
+1121,2023-H2,2,FALSE,Needs improvement in communication
+1223,2024-H1,2,FALSE,Needs improvement in communication
+1329,2024-H1,5,FALSE,Below expectations this period
+1351,2023-H2,4,FALSE,
+1373,2025-H1,4,FALSE,Exceeds expectations in delivery
+1111,2023-H2,3,FALSE,Below expectations this period
+1033,2024-H1,2,FALSE,
+1234,2023-H2,3,FALSE,Consistently meets expectations
+1291,2024-H1,3,FALSE,Strong technical contribution
+1297,2023-H2,5,TRUE,
+1220,2025-H1,5,FALSE,
+1338,2023-H1,3,FALSE,Outstanding leadership shown
+1195,2023-H2,3,FALSE,Below expectations this period
+1132,2023-H1,5,FALSE,Good team collaboration
+1001,2023-H2,2,TRUE,Good team collaboration
+1209,2023-H2,3,FALSE,Outstanding leadership shown
+1325,2024-H2,5,TRUE,
+1367,2023-H2,3,TRUE,Good team collaboration
+1249,2025-H1,5,FALSE,Outstanding leadership shown
+1029,2024-H2,3,FALSE,Below expectations this period
+1356,2023-H1,3,FALSE,
+1005,2024-H2,3,FALSE,Strong technical contribution
+1249,2024-H2,3,FALSE,Needs improvement in communication
+1097,2023-H1,4,FALSE,
+1265,2023-H2,4,FALSE,Outstanding leadership shown
+1363,2023-H1,4,FALSE,Exceeds expectations in delivery
+1176,2025-H1,4,FALSE,Outstanding leadership shown
+1018,2024-H2,2,FALSE,
+1072,2024-H1,3,FALSE,Exceeds expectations in delivery
+1290,2023-H2,3,FALSE,
+1207,2023-H1,3,FALSE,Consistently meets expectations
+1023,2023-H2,4,FALSE,Consistently meets expectations
+1331,2023-H1,3,FALSE,
+1072,2023-H1,4,FALSE,Good team collaboration
+1381,2023-H2,4,FALSE,
+1371,2023-H1,4,FALSE,
+1094,2024-H2,4,FALSE,Consistently meets expectations
+1396,2023-H2,5,FALSE,Exceeds expectations in delivery
+1157,2023-H2,4,FALSE,Consistently meets expectations
+1391,2024-H1,4,FALSE,Outstanding leadership shown
+1105,2024-H1,2,FALSE,Good team collaboration
+1356,2024-H2,3,FALSE,Good team collaboration
+1172,2024-H2,5,FALSE,Needs improvement in communication
+1260,2024-H2,3,FALSE,Needs improvement in communication
+1007,2025-H1,2,FALSE,Needs improvement in communication
+1141,2023-H1,3,FALSE,Consistently meets expectations
+1021,2025-H1,3,TRUE,Strong technical contribution
+1107,2025-H1,5,FALSE,Exceeds expectations in delivery
+1259,2024-H2,3,FALSE,Strong technical contribution
+1169,2023-H1,3,FALSE,Outstanding leadership shown
+1010,2025-H1,5,FALSE,Consistently meets expectations
+1226,2023-H1,3,FALSE,Good team collaboration
+1334,2023-H1,4,FALSE,Consistently meets expectations
+1149,2024-H2,4,FALSE,Strong technical contribution
+1305,2023-H2,3,TRUE,
+1233,2024-H1,4,FALSE,Exceeds expectations in delivery
+1330,2024-H2,3,FALSE,
+1377,2023-H1,3,FALSE,Needs improvement in communication
+1298,2023-H1,4,FALSE,Needs improvement in communication
+1344,2024-H1,4,FALSE,Strong technical contribution
+1082,2023-H2,4,FALSE,Exceeds expectations in delivery
+1357,2023-H1,3,FALSE,Strong technical contribution
+1185,2023-H1,3,FALSE,Needs improvement in communication
+1158,2023-H2,2,FALSE,Below expectations this period
+1290,2024-H1,3,FALSE,
+1224,2024-H1,4,TRUE,
+1002,2024-H2,4,FALSE,
+1241,2024-H2,4,FALSE,
+1019,2024-H1,3,FALSE,Good team collaboration
+1060,2024-H1,3,FALSE,Exceeds expectations in delivery
+1143,2024-H1,4,FALSE,Strong technical contribution
+1314,2024-H2,3,FALSE,Outstanding leadership shown
+1351,2024-H1,4,FALSE,
+1351,2025-H1,4,FALSE,Strong technical contribution
+1325,2025-H1,4,FALSE,Needs improvement in communication
+1136,2024-H1,3,FALSE,Outstanding leadership shown
+1318,2025-H1,4,FALSE,Strong technical contribution
+1318,2024-H2,2,FALSE,Strong technical contribution
+1248,2024-H1,5,FALSE,Consistently meets expectations
+1007,2024-H2,4,FALSE,Outstanding leadership shown
+1078,2025-H1,5,FALSE,Below expectations this period
+1330,2023-H1,3,FALSE,
+1054,2023-H1,4,FALSE,Strong technical contribution
+1252,2025-H1,4,FALSE,Exceeds expectations in delivery
+1056,2025-H1,1,FALSE,Exceeds expectations in delivery
+1258,2023-H1,4,FALSE,Good team collaboration
+1251,2024-H1,4,TRUE,
+1205,2025-H1,3,FALSE,Consistently meets expectations
+1212,2024-H2,5,FALSE,Needs improvement in communication
+1308,2023-H1,3,FALSE,Exceeds expectations in delivery
+1029,2025-H1,4,FALSE,Consistently meets expectations
+1104,2024-H2,3,FALSE,
+1250,2023-H1,4,FALSE,Good team collaboration
+1121,2023-H1,5,FALSE,Strong technical contribution
+1179,2023-H1,5,FALSE,
+1142,2024-H1,4,FALSE,Strong technical contribution
+1141,2024-H2,3,FALSE,
+1184,2023-H2,4,TRUE,Outstanding leadership shown
+1282,2024-H1,3,FALSE,
+1206,2025-H1,3,FALSE,Consistently meets expectations
+1312,2024-H2,5,FALSE,
+1098,2024-H2,5,FALSE,
+1007,2024-H1,3,FALSE,Strong technical contribution
+1003,2025-H1,3,FALSE,Strong technical contribution
+1052,2024-H1,5,FALSE,Outstanding leadership shown
+1219,2024-H2,4,FALSE,Strong technical contribution
+1172,2025-H1,5,TRUE,Outstanding leadership shown
+1092,2024-H1,3,FALSE,Below expectations this period
+1362,2024-H1,5,FALSE,Below expectations this period
+1092,2025-H1,4,FALSE,Consistently meets expectations
+1128,2023-H2,5,FALSE,Strong technical contribution
+1165,2024-H2,3,FALSE,Consistently meets expectations
+1263,2024-H2,4,FALSE,Needs improvement in communication
+1324,2024-H2,4,FALSE,Needs improvement in communication
+1153,2024-H1,5,FALSE,Needs improvement in communication
+1031,2025-H1,4,FALSE,Needs improvement in communication
+1332,2023-H2,4,FALSE,
+1144,2024-H1,5,FALSE,Needs improvement in communication
+1336,2025-H1,4,FALSE,Good team collaboration
+1162,2023-H1,4,TRUE,Outstanding leadership shown
+1284,2025-H1,2,FALSE,Strong technical contribution
+1155,2024-H1,5,TRUE,
+1028,2024-H2,4,FALSE,Below expectations this period
+1328,2024-H2,4,FALSE,Outstanding leadership shown
+1400,2023-H2,3,FALSE,Needs improvement in communication
+1136,2023-H2,5,FALSE,Good team collaboration
+1129,2023-H2,3,FALSE,
+1071,2025-H1,5,FALSE,Exceeds expectations in delivery
+1366,2023-H1,5,FALSE,Below expectations this period
+1066,2024-H1,3,FALSE,Consistently meets expectations
+1321,2023-H2,5,FALSE,Good team collaboration
+1154,2023-H1,4,FALSE,Needs improvement in communication
+1372,2023-H1,2,FALSE,Exceeds expectations in delivery
+1041,2023-H1,3,FALSE,Consistently meets expectations
+1182,2023-H2,3,FALSE,Consistently meets expectations
+1088,2023-H1,5,FALSE,
+1119,2023-H1,1,FALSE,Exceeds expectations in delivery
+1308,2024-H2,4,TRUE,
+1192,2024-H1,4,FALSE,Strong technical contribution
+1344,2023-H2,4,FALSE,Below expectations this period
+1056,2024-H2,3,FALSE,Exceeds expectations in delivery
+1115,2023-H1,4,FALSE,Needs improvement in communication
+1046,2023-H2,4,FALSE,
+1036,2024-H1,4,FALSE,Strong technical contribution
+1400,2025-H1,2,FALSE,Outstanding leadership shown
+1195,2024-H1,5,FALSE,Exceeds expectations in delivery
+1197,2024-H1,5,FALSE,Exceeds expectations in delivery
+1369,2023-H2,4,FALSE,Outstanding leadership shown
+1340,2023-H1,5,FALSE,
+1354,2025-H1,1,FALSE,Outstanding leadership shown
+1225,2024-H2,5,FALSE,Needs improvement in communication
+1246,2023-H1,5,FALSE,Needs improvement in communication
+1231,2023-H1,4,TRUE,
+1347,2024-H1,4,FALSE,
+1338,2023-H2,4,FALSE,
+9050,2024-H2,3,FALSE,
+1210,2024-H1,3,FALSE,
+1126,2025-H1,5,FALSE,Good team collaboration
+1051,2023-H1,2,FALSE,Consistently meets expectations
+1094,2025-H1,3,FALSE,Strong technical contribution
+1293,2024-H2,4,TRUE,Strong technical contribution
+1229,2023-H1,3,FALSE,Below expectations this period
+1207,2024-H2,4,FALSE,Below expectations this period
+1196,2025-H1,4,FALSE,Strong technical contribution
+1406,2024-H2,4,FALSE,Below expectations this period
+1010,2024-H1,3,FALSE,Needs improvement in communication
+1355,2024-H1,4,FALSE,Below expectations this period
+1227,2023-H2,4,FALSE,Outstanding leadership shown
+1311,2025-H1,3,FALSE,
+1279,2023-H2,3,TRUE,Strong technical contribution
+1326,2024-H1,5,FALSE,Good team collaboration
+1248,2025-H1,5,FALSE,
+1214,2023-H2,1,FALSE,Outstanding leadership shown
+1286,2023-H2,4,FALSE,Below expectations this period
+1200,2024-H2,3,FALSE,Below expectations this period
+1362,2025-H1,4,FALSE,Outstanding leadership shown
+1243,2023-H1,5,FALSE,Good team collaboration
+1100,2025-H1,1,FALSE,Outstanding leadership shown
+1313,2024-H2,3,FALSE,Exceeds expectations in delivery
+1074,2024-H1,3,FALSE,Outstanding leadership shown
+1083,2023-H1,4,FALSE,Exceeds expectations in delivery
+1198,2024-H1,4,FALSE,
+1360,2023-H1,5,FALSE,Strong technical contribution
+1151,2025-H1,4,TRUE,Needs improvement in communication
+1203,2024-H1,5,TRUE,Below expectations this period
+1288,2023-H2,5,FALSE,
+1233,2025-H1,5,FALSE,Good team collaboration
+1287,2024-H1,5,FALSE,Below expectations this period
+1359,2023-H2,5,TRUE,Outstanding leadership shown
+1168,2024-H1,3,FALSE,
+1140,2023-H2,5,FALSE,Outstanding leadership shown
+1034,2023-H1,3,FALSE,
+1164,2023-H2,4,FALSE,Good team collaboration
+1401,2023-H1,4,FALSE,
+1253,2023-H2,3,FALSE,Good team collaboration
+1350,2023-H2,4,FALSE,Below expectations this period
+1229,2025-H1,4,FALSE,Outstanding leadership shown
+1404,2023-H2,4,FALSE,Consistently meets expectations
+1135,2025-H1,3,FALSE,Good team collaboration
+1104,2023-H2,4,TRUE,Consistently meets expectations
+1277,2023-H1,4,FALSE,Consistently meets expectations
+1248,2024-H2,2,FALSE,Strong technical contribution
+1349,2023-H2,2,FALSE,
+1035,2024-H1,4,FALSE,Good team collaboration
+1208,2024-H1,1,FALSE,
+1099,2023-H2,5,FALSE,Good team collaboration
+1214,2024-H2,3,FALSE,
+1018,2025-H1,4,FALSE,
+1191,2025-H1,2,FALSE,Consistently meets expectations
+1083,2023-H2,5,FALSE,
+1053,2024-H2,5,FALSE,
+1137,2023-H2,4,FALSE,Consistently meets expectations
+1297,2023-H1,3,FALSE,Consistently meets expectations
+1150,2023-H1,4,FALSE,Strong technical contribution
+1040,2023-H2,3,FALSE,Good team collaboration
+1382,2023-H1,4,FALSE,Strong technical contribution
+1186,2024-H2,2,FALSE,Exceeds expectations in delivery
+1339,2023-H2,3,FALSE,Below expectations this period
+1061,2025-H1,3,FALSE,Strong technical contribution
+1086,2025-H1,5,FALSE,Consistently meets expectations
+1108,2025-H1,4,FALSE,Good team collaboration
+1045,2023-H1,2,FALSE,
+1406,2025-H1,3,FALSE,Outstanding leadership shown
+1272,2024-H2,4,FALSE,Needs improvement in communication
+1039,2024-H1,5,FALSE,Below expectations this period
+1318,2023-H2,4,FALSE,Consistently meets expectations
+1117,2024-H1,3,FALSE,Outstanding leadership shown
+1154,2024-H2,1,FALSE,Good team collaboration
+1051,2024-H2,5,FALSE,Exceeds expectations in delivery
+1383,2023-H1,4,FALSE,Exceeds expectations in delivery
+1062,2024-H2,4,FALSE,Exceeds expectations in delivery
+1242,2024-H1,2,FALSE,Below expectations this period
+1273,2024-H1,3,TRUE,Strong technical contribution
+1158,2025-H1,4,FALSE,Below expectations this period
+1397,2023-H1,3,FALSE,
+1044,2024-H2,3,FALSE,Good team collaboration
+1217,2023-H2,5,FALSE,Exceeds expectations in delivery
+1190,2025-H1,3,FALSE,Needs improvement in communication
+1069,2024-H2,4,FALSE,
+1194,2023-H2,1,FALSE,Consistently meets expectations
+1045,2025-H1,3,FALSE,Consistently meets expectations
+1322,2024-H1,5,FALSE,
+1253,2024-H1,4,FALSE,Outstanding leadership shown
+1135,2023-H2,3,FALSE,Outstanding leadership shown
+1345,2024-H1,4,FALSE,
+1072,2025-H1,3,FALSE,Strong technical contribution
+1203,2023-H2,5,FALSE,Strong technical contribution
+1057,2023-H1,5,FALSE,Needs improvement in communication
+1086,2023-H1,4,FALSE,Exceeds expectations in delivery
+1086,2024-H1,4,FALSE,
+1056,2024-H1,5,FALSE,
+1221,2023-H1,5,FALSE,Needs improvement in communication
+1130,2023-H1,5,FALSE,Needs improvement in communication
+1147,2025-H1,4,FALSE,Below expectations this period
+1242,2025-H1,4,FALSE,Below expectations this period
+1278,2024-H2,2,FALSE,Below expectations this period
+1108,2024-H1,5,FALSE,Exceeds expectations in delivery
+1363,2024-H2,4,FALSE,Strong technical contribution
+1184,2024-H1,4,FALSE,
+1119,2025-H1,3,FALSE,Needs improvement in communication
+1283,2025-H1,4,FALSE,Strong technical contribution
+1170,2025-H1,5,FALSE,Below expectations this period
+1192,2025-H1,3,FALSE,Consistently meets expectations
+1206,2023-H1,5,FALSE,
+1165,2023-H1,3,FALSE,Outstanding leadership shown
+1087,2024-H2,2,FALSE,Exceeds expectations in delivery
+1309,2023-H2,3,FALSE,Strong technical contribution
+1402,2023-H2,4,FALSE,Consistently meets expectations
+1204,2023-H2,3,FALSE,Outstanding leadership shown
+1207,2023-H2,3,FALSE,Outstanding leadership shown
+1069,2023-H2,3,FALSE,Outstanding leadership shown
+1120,2024-H2,3,FALSE,
+1087,2023-H1,2,FALSE,
+1193,2023-H1,2,FALSE,Needs improvement in communication
+1025,2025-H1,3,FALSE,Needs improvement in communication
+1121,2024-H2,1,FALSE,Outstanding leadership shown
+1306,2024-H2,4,FALSE,Consistently meets expectations
+1142,2024-H2,4,FALSE,
+1096,2023-H2,4,FALSE,
+1106,2025-H1,4,FALSE,Outstanding leadership shown
+1183,2023-H1,4,FALSE,Consistently meets expectations
+1357,2023-H2,2,FALSE,
+1224,2025-H1,3,TRUE,Strong technical contribution
+1379,2024-H1,5,TRUE,Needs improvement in communication
+1381,2024-H2,4,FALSE,
+1290,2023-H1,3,FALSE,Outstanding leadership shown
+1293,2025-H1,4,FALSE,Below expectations this period
+1315,2024-H1,5,FALSE,Needs improvement in communication
+1004,2024-H2,4,FALSE,Consistently meets expectations
+1230,2025-H1,4,FALSE,
+1269,2024-H1,3,FALSE,
+1386,2023-H2,4,FALSE,Needs improvement in communication
+1346,2025-H1,3,FALSE,Exceeds expectations in delivery
+1159,2025-H1,4,TRUE,Needs improvement in communication
+1384,2023-H1,3,FALSE,Good team collaboration
+1290,2024-H2,3,FALSE,Outstanding leadership shown
+1296,2023-H1,1,FALSE,Good team collaboration
+1091,2024-H2,4,FALSE,Consistently meets expectations
+1171,2025-H1,3,FALSE,Needs improvement in communication
+1013,2025-H1,4,FALSE,
+1065,2023-H2,3,FALSE,Strong technical contribution
+1120,2023-H2,5,FALSE,Consistently meets expectations
+1379,2023-H1,2,FALSE,Outstanding leadership shown
+1193,2024-H2,3,FALSE,
+1004,2023-H1,3,FALSE,Good team collaboration
+1151,2024-H2,2,FALSE,Needs improvement in communication
+1102,2024-H1,5,FALSE,
+1134,2024-H2,4,TRUE,
+1195,2025-H1,3,FALSE,Strong technical contribution
+1110,2025-H1,4,FALSE,Consistently meets expectations
+1214,2023-H2,1,FALSE,Outstanding leadership shown
+1174,2023-H2,3,TRUE,Exceeds expectations in delivery
+1067,2023-H1,4,FALSE,Needs improvement in communication
+1277,2024-H2,3,TRUE,Needs improvement in communication
+1144,2023-H1,3,FALSE,Below expectations this period
+1133,2024-H1,5,FALSE,Exceeds expectations in delivery
+1285,2024-H1,4,FALSE,
+1096,2024-H2,3,FALSE,
+1068,2025-H1,5,FALSE,Consistently meets expectations
+1377,2024-H2,5,FALSE,Outstanding leadership shown
+1380,2023-H2,4,FALSE,
+1258,2023-H2,2,FALSE,Strong technical contribution
+1188,2023-H1,3,FALSE,Outstanding leadership shown
+1264,2024-H1,5,FALSE,Good team collaboration
+1385,2023-H2,5,FALSE,Below expectations this period
+1255,2023-H1,3,FALSE,Below expectations this period
+1392,2024-H2,3,FALSE,
+1266,2024-H2,4,FALSE,Outstanding leadership shown
+1258,2024-H1,4,FALSE,Strong technical contribution
+1007,2023-H2,3,FALSE,Consistently meets expectations
+1082,2024-H2,5,FALSE,Needs improvement in communication
+1057,2024-H2,3,FALSE,Strong technical contribution
+1060,2023-H1,4,FALSE,Good team collaboration
+1092,2023-H2,4,FALSE,Exceeds expectations in delivery
+1124,2023-H1,4,FALSE,Outstanding leadership shown
+1260,2025-H1,4,FALSE,Outstanding leadership shown
+1378,2025-H1,3,FALSE,Exceeds expectations in delivery
+1040,2023-H1,4,FALSE,Good team collaboration
+1274,2023-H2,3,FALSE,
+1294,2025-H1,2,FALSE,Exceeds expectations in delivery
+1236,2024-H2,5,FALSE,Exceeds expectations in delivery
+1313,2025-H1,4,FALSE,Consistently meets expectations
+1285,2023-H1,5,FALSE,Exceeds expectations in delivery
+1065,2023-H1,3,FALSE,Outstanding leadership shown
+1066,2024-H2,3,FALSE,Good team collaboration
+1273,2025-H1,3,FALSE,Needs improvement in communication
+1354,2024-H2,2,FALSE,Exceeds expectations in delivery
+1008,2025-H1,4,FALSE,Outstanding leadership shown
+1214,2025-H1,4,FALSE,
+1352,2024-H1,4,FALSE,
+1374,2025-H1,5,FALSE,Exceeds expectations in delivery
+1244,2024-H2,3,FALSE,Strong technical contribution
+1247,2025-H1,4,FALSE,Exceeds expectations in delivery
+1120,2023-H1,5,FALSE,Exceeds expectations in delivery
+1079,2024-H1,5,FALSE,Needs improvement in communication
+1108,2023-H1,4,FALSE,
+1215,2023-H1,3,FALSE,Outstanding leadership shown
+1340,2025-H1,4,FALSE,Strong technical contribution
+1012,2024-H2,5,FALSE,Exceeds expectations in delivery
+1302,2023-H1,3,TRUE,Needs improvement in communication
+1128,2023-H1,4,FALSE,Needs improvement in communication
+1287,2023-H1,3,FALSE,Good team collaboration
+1244,2024-H1,4,FALSE,
+1129,2025-H1,4,FALSE,Consistently meets expectations
+1199,2024-H2,3,FALSE,Good team collaboration
+1063,2025-H1,3,FALSE,Exceeds expectations in delivery
+1231,2024-H1,5,FALSE,Good team collaboration
+1107,2023-H2,3,FALSE,
+1109,2024-H1,3,FALSE,Good team collaboration
+1125,2025-H1,3,FALSE,
+1102,2025-H1,4,TRUE,
+1380,2025-H1,5,FALSE,Needs improvement in communication
+1354,2023-H2,3,FALSE,Strong technical contribution
+1070,2024-H2,3,FALSE,Consistently meets expectations
+1135,2023-H1,4,FALSE,Below expectations this period
+1129,2023-H1,5,FALSE,Exceeds expectations in delivery
+1117,2024-H2,4,FALSE,
+1085,2023-H2,3,FALSE,Good team collaboration
+1245,2025-H1,3,FALSE,Consistently meets expectations
+1051,2024-H1,5,FALSE,Consistently meets expectations
+1230,2023-H2,1,FALSE,
+1217,2023-H1,3,TRUE,Consistently meets expectations
+1237,2023-H1,3,FALSE,Consistently meets expectations
+1111,2024-H1,3,FALSE,Outstanding leadership shown
+1113,2024-H2,4,FALSE,
+1232,2023-H1,1,FALSE,
+1255,2024-H2,4,FALSE,Consistently meets expectations
+1077,2023-H2,2,FALSE,Good team collaboration
+1133,2023-H1,4,FALSE,Good team collaboration
+1388,2023-H1,2,FALSE,Below expectations this period
+1309,2025-H1,1,FALSE,Exceeds expectations in delivery
+1139,2023-H2,5,FALSE,Exceeds expectations in delivery
+1296,2023-H1,1,FALSE,Good team collaboration
+1109,2025-H1,4,FALSE,Outstanding leadership shown
+1095,2023-H2,3,TRUE,Exceeds expectations in delivery
+1278,2023-H2,5,FALSE,Strong technical contribution
+1181,2023-H1,4,FALSE,Consistently meets expectations
+1288,2023-H1,5,FALSE,Strong technical contribution
+1356,2023-H2,4,FALSE,Consistently meets expectations
+1297,2024-H1,4,FALSE,Good team collaboration
+1037,2024-H2,5,FALSE,Exceeds expectations in delivery
+1114,2023-H2,4,TRUE,Below expectations this period
+1116,2024-H2,4,FALSE,Consistently meets expectations
+1118,2023-H2,4,FALSE,Below expectations this period
+1052,2023-H2,4,FALSE,Exceeds expectations in delivery
+1298,2023-H2,3,FALSE,Outstanding leadership shown
+1321,2023-H1,4,FALSE,Exceeds expectations in delivery
+1242,2024-H2,5,FALSE,Good team collaboration
+1039,2025-H1,4,FALSE,Strong technical contribution
+1161,2024-H1,5,FALSE,Outstanding leadership shown
+1371,2023-H2,2,FALSE,Strong technical contribution
+1093,2023-H1,4,FALSE,Below expectations this period
+1211,2024-H1,4,FALSE,Outstanding leadership shown
+1243,2024-H2,3,TRUE,
+1137,2023-H1,3,FALSE,Outstanding leadership shown
+1038,2024-H1,5,FALSE,
+1093,2025-H1,4,FALSE,Consistently meets expectations
+1238,2023-H2,4,FALSE,Good team collaboration
+1271,2023-H1,3,FALSE,Consistently meets expectations
+1324,2024-H1,5,FALSE,
+1013,2024-H2,5,FALSE,Good team collaboration
+1381,2024-H1,2,FALSE,Strong technical contribution
+1386,2024-H2,3,FALSE,
+1158,2023-H1,4,FALSE,Outstanding leadership shown
+1263,2023-H1,3,FALSE,Below expectations this period
+1353,2025-H1,4,FALSE,Needs improvement in communication
+1289,2024-H1,3,FALSE,Exceeds expectations in delivery
+1372,2024-H1,4,FALSE,Consistently meets expectations
+1257,2023-H2,3,FALSE,Needs improvement in communication
+1229,2024-H2,4,FALSE,Good team collaboration
+1076,2025-H1,4,FALSE,Good team collaboration
+1001,2023-H1,4,FALSE,Outstanding leadership shown
+1391,2023-H1,4,FALSE,Outstanding leadership shown
+1278,2025-H1,4,FALSE,Below expectations this period
+1059,2024-H2,2,FALSE,Good team collaboration
+1388,2023-H2,3,FALSE,Exceeds expectations in delivery
+1380,2024-H2,4,FALSE,Good team collaboration
+1136,2023-H1,3,FALSE,Needs improvement in communication
+1400,2023-H1,5,FALSE,Below expectations this period
+1032,2023-H1,4,FALSE,Outstanding leadership shown
+1010,2023-H1,4,FALSE,Good team collaboration
+1342,2024-H2,5,FALSE,Good team collaboration
+1403,2023-H2,5,FALSE,Good team collaboration
+1173,2023-H1,5,FALSE,
+1016,2024-H1,3,FALSE,Consistently meets expectations
+1388,2024-H2,4,FALSE,Consistently meets expectations
+1256,2023-H1,4,FALSE,
+1156,2023-H2,4,FALSE,
+1112,2023-H1,5,FALSE,Exceeds expectations in delivery
+1062,2023-H1,4,FALSE,
+1098,2024-H1,4,FALSE,Exceeds expectations in delivery
+1342,2025-H1,5,FALSE,Good team collaboration
+1090,2024-H1,3,FALSE,Needs improvement in communication
+1035,2025-H1,4,FALSE,Consistently meets expectations
+1275,2023-H2,4,FALSE,Good team collaboration
+1158,2024-H2,4,FALSE,Outstanding leadership shown
+1079,2023-H2,4,FALSE,Needs improvement in communication
+1283,2024-H1,4,FALSE,
+1204,2024-H2,4,FALSE,
+1293,2024-H1,4,FALSE,Strong technical contribution
+1009,2025-H1,5,FALSE,Outstanding leadership shown
+1405,2024-H1,4,FALSE,Needs improvement in communication
+1113,2024-H1,3,FALSE,Exceeds expectations in delivery
+1160,2023-H1,3,TRUE,Needs improvement in communication
+1062,2023-H2,3,FALSE,Outstanding leadership shown
+1296,2023-H2,3,FALSE,Exceeds expectations in delivery
+1210,2025-H1,4,FALSE,Good team collaboration
+1080,2024-H1,1,FALSE,
+1398,2024-H1,4,FALSE,Below expectations this period
+1043,2024-H2,5,FALSE,
+1234,2024-H2,2,FALSE,
+1141,2024-H1,5,FALSE,Below expectations this period
+1337,2023-H1,4,FALSE,Good team collaboration
+1144,2025-H1,3,FALSE,
+1312,2023-H1,5,FALSE,Needs improvement in communication
+1309,2024-H2,5,FALSE,
+1163,2024-H2,4,FALSE,Outstanding leadership shown
+1154,2023-H2,4,FALSE,Needs improvement in communication
+1051,2023-H2,4,FALSE,Exceeds expectations in delivery
+1264,2025-H1,5,TRUE,Strong technical contribution
+1130,2024-H2,3,FALSE,
+1326,2024-H2,3,FALSE,
+1198,2023-H2,4,FALSE,Strong technical contribution
+1074,2023-H1,3,FALSE,Consistently meets expectations
+1177,2024-H1,5,FALSE,
+1310,2023-H2,2,FALSE,Consistently meets expectations
+1317,2025-H1,5,FALSE,Exceeds expectations in delivery
+1341,2023-H2,4,FALSE,Outstanding leadership shown
+1034,2025-H1,4,FALSE,Good team collaboration
+1293,2023-H1,4,FALSE,Consistently meets expectations
+1027,2024-H2,5,FALSE,Exceeds expectations in delivery
+1216,2025-H1,3,FALSE,Needs improvement in communication
+1102,2024-H2,4,FALSE,Good team collaboration
+1393,2024-H2,3,TRUE,Strong technical contribution
+1019,2023-H2,4,TRUE,
+1037,2025-H1,5,FALSE,
+1233,2024-H2,3,FALSE,Needs improvement in communication
+1263,2025-H1,4,FALSE,Outstanding leadership shown
+1191,2024-H1,5,FALSE,Needs improvement in communication
+1123,2023-H2,3,FALSE,Strong technical contribution
+1022,2023-H2,5,FALSE,
+1117,2023-H1,4,FALSE,Outstanding leadership shown
+1391,2024-H2,5,TRUE,Consistently meets expectations
+1384,2023-H2,5,FALSE,Exceeds expectations in delivery
+1083,2024-H2,2,FALSE,
+1321,2024-H2,5,FALSE,Strong technical contribution
+1316,2023-H2,4,FALSE,Exceeds expectations in delivery
+1146,2023-H1,5,FALSE,Exceeds expectations in delivery
+1235,2023-H2,4,FALSE,Strong technical contribution
+1310,2023-H1,3,FALSE,Outstanding leadership shown
+1361,2023-H2,4,FALSE,Good team collaboration
+1216,2024-H2,4,FALSE,Good team collaboration
+1139,2024-H2,3,FALSE,Consistently meets expectations
+1126,2024-H1,4,FALSE,Outstanding leadership shown
+1150,2025-H1,3,FALSE,Strong technical contribution
+1189,2025-H1,3,TRUE,Strong technical contribution
+1330,2025-H1,4,FALSE,Consistently meets expectations
+1358,2025-H1,4,FALSE,Good team collaboration
+1005,2025-H1,5,FALSE,Needs improvement in communication
+1336,2024-H1,4,FALSE,Consistently meets expectations
+1143,2024-H2,3,FALSE,Needs improvement in communication
+1343,2025-H1,3,FALSE,Exceeds expectations in delivery
+1055,2023-H1,5,FALSE,Strong technical contribution
+1403,2023-H1,5,FALSE,
+1217,2024-H1,5,FALSE,Consistently meets expectations
+1187,2025-H1,2,FALSE,
+1251,2025-H1,4,FALSE,Exceeds expectations in delivery
+1070,2023-H2,5,FALSE,
+1143,2025-H1,3,FALSE,
+1125,2023-H1,4,FALSE,Consistently meets expectations
+1200,2024-H1,4,FALSE,Good team collaboration
+1371,2025-H1,4,TRUE,
+1092,2024-H2,4,FALSE,Needs improvement in communication
+1232,2023-H2,5,FALSE,Consistently meets expectations
+1176,2024-H2,4,FALSE,Exceeds expectations in delivery
+1166,2025-H1,4,TRUE,Consistently meets expectations
+1289,2023-H2,3,FALSE,Consistently meets expectations
+1123,2023-H1,4,FALSE,
+1028,2023-H2,2,FALSE,Needs improvement in communication
+1121,2024-H1,2,FALSE,Exceeds expectations in delivery
+1202,2024-H1,4,FALSE,Good team collaboration
+1105,2023-H2,3,FALSE,Consistently meets expectations
+1244,2025-H1,5,FALSE,Exceeds expectations in delivery
+1258,2024-H2,4,FALSE,Below expectations this period
+1125,2024-H2,4,FALSE,
+1370,2023-H2,3,FALSE,Exceeds expectations in delivery
+1301,2023-H1,4,TRUE,Consistently meets expectations
+1134,2025-H1,4,FALSE,
+1126,2023-H1,4,FALSE,
+1079,2024-H2,4,FALSE,
+1225,2025-H1,4,FALSE,Exceeds expectations in delivery
+1025,2024-H2,5,FALSE,Needs improvement in communication
+1221,2024-H1,3,FALSE,
+1354,2023-H1,4,FALSE,Below expectations this period
+1014,2025-H1,4,FALSE,Needs improvement in communication
+1289,2024-H2,5,FALSE,Needs improvement in communication
+1020,2024-H2,5,FALSE,Good team collaboration
+1352,2023-H2,4,FALSE,Strong technical contribution
+1268,2024-H2,3,FALSE,Strong technical contribution
+1043,2024-H2,5,FALSE,
+1360,2023-H1,5,FALSE,Strong technical contribution
+1098,2023-H1,4,FALSE,
+1085,2024-H1,4,FALSE,Needs improvement in communication
+1395,2023-H1,5,TRUE,Consistently meets expectations
+1013,2024-H1,3,TRUE,Below expectations this period
+1300,2023-H2,3,FALSE,
+1120,2024-H1,3,FALSE,Good team collaboration
+1379,2024-H2,3,FALSE,Good team collaboration
+1222,2023-H2,2,FALSE,Outstanding leadership shown
+1089,2025-H1,4,TRUE,Below expectations this period
+1018,2024-H1,4,FALSE,Needs improvement in communication
+1042,2023-H1,4,FALSE,Outstanding leadership shown
+1053,2024-H1,3,FALSE,Strong technical contribution
+1181,2023-H2,2,TRUE,Good team collaboration
+1100,2024-H1,5,FALSE,Outstanding leadership shown
+1209,2023-H1,4,TRUE,Strong technical contribution
+1190,2023-H1,3,FALSE,
+1396,2024-H2,3,FALSE,Strong technical contribution
+1181,2025-H1,5,FALSE,Good team collaboration
+1220,2024-H2,3,FALSE,Consistently meets expectations
+1254,2024-H1,4,FALSE,Below expectations this period
+1287,2025-H1,4,TRUE,Strong technical contribution
+1122,2025-H1,4,FALSE,Strong technical contribution
+1152,2025-H1,5,FALSE,Below expectations this period
+1236,2024-H1,1,FALSE,Exceeds expectations in delivery

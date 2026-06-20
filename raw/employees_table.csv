@@ -1,0 +1,415 @@
+EmployeeID,FullName,,Department,JobTitle,Gender,DateOfBirth,HireDate,TerminationDate,City,Email,Education,ManagerID
+1022,Aarush Lall,Department,CS,Support Executive,MALE,1983-12-25,2019-05-09,,BANGALORE,aarush.lall@company.com,Diploma,
+1042,Suhani Mangal,CS,CS,Support Team Lead,male,2004-11-26,2021-06-28,,Pune ,suhani.mangal@company.com,PhD,1242
+1097,Vinaya Kanda,customer support,CS,Support Team Lead,female,1988-03-19,2024-06-09,,Calcutta,vinaya.kanda@company.com,Diploma,1244
+1119,Niharika Suresh,Customer Support ,CS,Customer Success Manager,Female,1974-09-20,2022-08-05,,Bengaluru,niharika.suresh@company.com,Masters,1391
+1182,Nitesh Kurian,Engg,CS,Customer Success Manager,male,1986-07-12,2021-05-21,,Hyderabad ,nitesh.kurian@company.com,Bachelors,1278
+1201,Ekiya Babu,Engineering,CS,Customer Success Manager,Male,1997-06-24,2018-07-31,,Delhi,ekiya.babu@company.com,PhD,1100
+1242,Dayita Shenoy,Engineering ,CS,Customer Success Manager,FEMALE,1980-10-31,2023-03-11,,vijayawada,dayita.shenoy@company.com,Diploma,1030
+1282,Krishna Bhatnagar,Fin,CS,Support Executive,MALE,1985-08-24,2026-04-21,,bangalore,krishna.bhatnagar@company.com,Diploma,1297
+1304,Nakul Ghosh,Finance,CS,Support Executive,male,1978-06-30,2022-11-10,,Vizag,nakul.ghosh@company.com,Masters,1294
+1328,Jasmit Bath,Finance ,CS,Support Executive,female,1995-02-08,2025-07-08,,Delhi,jasmit.bath@company.com,Diploma,1282
+1334,Falak Nagar,H.R.,CS,Customer Success Manager,MALE,2001-05-26,2019-08-27,,CHENNAI,falak.nagar@company.com,PhD,1106
+1343,Krisha Murthy  ,hr,CS,Support Executive,male,1979-10-24,2020-02-13,,Vijayawada ,krisha.murthy@company.com,Masters,1224
+1030,Umang Bhatt  ,HR ,customer support,Customer Success Manager,female,1984-08-13,2025-08-27,,ahmedabad,umang.bhatt@company.com,PhD,1162
+1031,Thomas Amble,Human Resources,Customer Support,Support Executive,Female,1989-10-25,2021-03-01,,Pune ,thomas.amble@company.com,Bachelors,1323
+1039,Saanvi Chaudhari,I.T.,customer support,Customer Success Manager,MALE,2000-09-09,2022-02-28,,Chennai,saanvi.chaudhari@company.com,Masters,1220
+1052,Ekapad Konda,Information Technology,Customer Support,Support Executive,MALE,1977-07-15,2020-03-01,,chennai,ekapad.konda@company.com,Masters,1031
+1084,Warda Ratta,it,customer support,Support Team Lead,female,1989-05-03,2025-07-19,,AHMEDABAD,warda.ratta@company.com,Diploma,1269
+1088,Yamini Sandhu,IT ,customer support,Customer Success Manager,Female,1990-02-01,2026-05-12,2026-06-18,VIJAYAWADA,yamini.sandhu@company.com,Bachelors,1269
+1092,Lakshit Dora,Marketing,customer support,Customer Success Manager,female,2001-05-25,2021-02-23,,Hyd,lakshit.dora@company.com,Diploma,1297
+1100,Priya Deshmukh,Marketing ,customer support,Support Team Lead,female,1992-08-27,2023-03-12,,Chennai,priya.deshmukh@company.com,Diploma,1162
+1105,Urvashi Contractor,Mktg,customer support,Support Executive,F,1973-04-02,2018-08-16,,mumbai,urvashi.contractor@company.com,Bachelors,1232
+1106,Jyoti Ganesh,operations,customer support,Customer Success Manager,F,1975-09-29,2022-12-21,,Mumbai ,jyoti.ganesh@company.com,PhD,1244
+1162,Harish Sarraf,Operations ,customer support,Customer Success Manager,F,1968-11-12,2022-06-03,,KOLKATA,harish.sarraf@company.com,Bachelors,1328
+1175,Vasudha Chhabra  ,Ops,customer support,Customer Success Manager,female,1978-12-10,2022-02-11,2023-04-09,New Delhi,vasudha.chhabra@company.com,Bachelors,1269
+1199,Maanav De,Sales,customer support,Customer Success Manager,male,1990-02-09,2024-10-07,,Vizag,maanav.de@company.com,Masters,1297
+1205,Pooja Chokshi,Sales ,customer support,Support Team Lead,FEMALE,1985-08-30,2018-12-12,,Vijayawada,pooja.chokshi@company.com,Bachelors,1063
+1211,Kavya Dua,Sales Dept,Customer Support,Customer Success Manager,F,1979-05-03,2020-12-16,,ahmedabad,kavya.dua@company.com,PhD,1030
+1215,Charan Mani  ,Support,Customer Support,Support Team Lead,female,1992-09-28,2021-04-15,2024-06-16,Chennai ,charan.mani@company.com,PhD,1175
+1220,Ekaraj Dhar,0,customer support,Support Executive,female,2000-07-07,2018-07-05,,Hyderabad,ekaraj.dhar@company.com,Bachelors,1396
+1232,Omisha Mann,,Customer Support,Support Team Lead,MALE,1989-05-04,2025-05-10,,,omisha.mann@company.com,Bachelors,1297
+1244,Benjamin Sengupta,,Customer Support,Support Executive,MALE,1986-09-24,2023-05-19,,PUNE,benjamin.sengupta@company.com,Bachelors,1257
+1257,Yashica Zacharia,,customer support,Support Team Lead,male,1999-07-20,2019-01-29,,Ahmedabad,yashica.zacharia@company.com,Bachelors,1031
+1269,Udarsh Bala,,customer support,Support Team Lead,MALE,2005-04-03,2020-05-06,,bangalore,udarsh.bala@company.com,Masters,9999
+1281,Parth Shetty,,Customer Support,Support Team Lead,MALE,1980-11-05,2019-07-12,,Ahmedabad,parth.shetty@company.com,PhD,1396
+1297,Shivani Prabhakar,,Customer Support,Support Executive,FEMALE,1968-09-09,2026-01-20,,MUMBAI,shivani.prabhakar@company.com,PhD,1343
+1313,Yadavi Ganguly,,customer support,Support Team Lead,female,1978-12-20,2019-06-18,,Visakhapatnam,yadavi.ganguly@company.com,Masters,
+1313,Yadavi Ganguly,,customer support,Support Team Lead,female,1978-12-20,2019-06-18,,Visakhapatnam,yadavi.ganguly@company.com,Masters,
+1332,Chakradev Barad,,Customer Support,Support Team Lead,Male,1986-10-22,2020-01-20,,hyderabad,chakradev.barad@company.com,Diploma,1269
+1391,Eiravati Saha,,customer support,Support Team Lead,MALE,1980-07-19,2018-11-01,,HYDERABAD,eiravati.saha@company.com,PhD,1281
+1396,Charan Loyal,,customer support,Customer Success Manager,Male,1994-12-30,2019-03-15,,DELHI,charan.loyal@company.com,PhD,1215
+1110,Benjamin Palan,,Customer Support ,Support Team Lead,male,1990-04-11,2025-04-05,,hyderabad,benjamin.palan@company.com,PhD,1030
+1160,Vivaan Roy,,Customer Support ,Support Team Lead,F,1976-07-14,2026-04-21,,Bombay,vivaan.roy@company.com,Masters,1281
+1224,Panini Sunder  ,,Customer Support ,Customer Success Manager,male,1970-07-24,2018-11-10,,bangalore,panini.sunder@company.com,Bachelors,1304
+1286,Champak Narula,,Customer Support ,Support Team Lead,MALE,1974-09-21,2024-06-26,,Hyderabad,champak.narula@company.com,Masters,
+1289,Fitan Samra,,Customer Support ,Customer Success Manager,F,1997-10-04,2021-05-26,,Bengaluru,fitan.samra@company.com,Bachelors,1334
+1291,Damini Sehgal,,Customer Support ,Customer Success Manager,F,1979-12-03,2019-04-13,,chennai,damini.sehgal@company.com,Diploma,1297
+1007,Farhan Memon,,Engg,DevOps Engineer,F,2004-06-09,2022-10-01,,PUNE,farhan.memon@company.com,PhD,1064
+1007,Farhan Memon,,Engg,DevOps Engineer,F,2004-06-09,2022-10-01,,PUNE,farhan.memon@company.com,PhD,1064
+1032,Ekansh Balay,,Engg,Engineering Manager,Female,1991-06-11,2019-01-11,2025-06-10,mumbai,ekansh.balay@company.com,PhD,1046
+1067,Inaya Mody,,Engg,Engineering Manager,Male,1998-06-29,2020-03-28,,Bombay,inaya.mody@company.com,Bachelors,1238
+1095,Lajita Sood,,Engg,DevOps Engineer,male,1982-04-05,2025-02-13,,BANGALORE,,Diploma,1379
+1118,Anya Anne,,Engg,Software Engineer,MALE,1977-04-11,2021-04-19,,Bombay,anya.anne@company.com,Masters,1204
+1178,Theodore Gupta,,Engg,DevOps Engineer,Male,1976-03-16,2024-08-30,,Ahmedabad,theodore.gupta@company.com,PhD,1067
+1204,Tara Balasubramanian,,Engg,DevOps Engineer,Female,1995-02-05,2023-05-19,,kolkata,tara.balasubramanian@company.com,Bachelors,1069
+1268,Yadavi Prakash,,Engg,QA Engineer,MALE,1983-03-24,2025-11-25,,Kolkata,yadavi.prakash@company.com,PhD,
+1353,Abdul Dugar,,Engg,QA Engineer,M,1971-04-13,2024-03-13,,visakhapatnam,abdul.dugar@company.com,Diploma,1153
+1402,Anya Anne,,Engg,Software Engineer,MALE,1977-04-11,2021-04-19,,Bombay,anya.anne@company.com,Masters,1204
+1001,Yash Kapoor,,Engineering,Software Engineer,Male,1968-05-30,2023-07-29,,Pune ,yash.kapoor@company.com,Bachelors,1327
+1010,Janya Gaba,,ENGINEERING,Senior Software Engineer,FEMALE,1981-11-27,2025-05-22,,Ahmedabad ,janya.gaba@company.com,Masters,1178
+1046,Wahab Raval,,Engineering,QA Engineer,female,1974-07-10,2019-02-07,,AHMEDABAD,wahab.raval@company.com,Diploma,1384
+1050,Elijah Andra,,engineering,Senior Software Engineer,Male,1978-11-10,2023-11-01,,Pune,elijah.andra@company.com,Masters,1379
+1064,Nitara Bakshi,,Engineering,Software Engineer,M,1973-08-20,2020-05-09,,hyderabad,nitara.bakshi@company.com,Masters,1178
+1069,Indali Upadhyay,,ENGINEERING,DevOps Engineer,F,1970-02-05,2020-09-08,,VIJAYAWADA,indali.upadhyay@company.com,Diploma,1067
+1073,Aachal Basu,,engineering,Senior Software Engineer,FEMALE,2001-08-23,2019-05-21,,VISAKHAPATNAM,aachal.basu@company.com,Diploma,1307
+1079,Udyati Sathe  ,,ENGINEERING,Software Engineer,female,1997-04-27,2020-02-21,,ahmedabad,udyati.sathe@company.com,Bachelors,1258
+1101,Ladli Narang,,ENGINEERING,Engineering Manager,M,1974-05-14,2025-05-24,,Delhi,ladli.narang@company.com,Diploma,1085
+1101,Ladli Narang,,ENGINEERING,Engineering Manager,M,1974-05-14,2025-05-24,,Delhi,ladli.narang@company.com,Diploma,1085
+1115,Ekantika Korpal,,ENGINEERING,DevOps Engineer,female,1995-03-29,2021-12-11,,HYDERABAD,ekantika.korpal@company.com,Diploma,1384
+1117,Ekta Gopal,,Engineering,DevOps Engineer,Female,1980-03-30,2023-10-21,2025-03-08,PUNE,ekta.gopal@company.com,Diploma,1017
+1124,Rehaan Kalita,,engineering,Software Engineer,male,2003-08-06,2024-05-26,,Chennai,rehaan.kalita@company.com,Masters,
+1126,Akshay Walla  ,,Engineering,DevOps Engineer,male,1981-03-05,2020-10-30,,Kolkata ,akshay.walla@company.com,Bachelors,1117
+1144,Arunima Golla,,ENGINEERING,QA Engineer,female,1974-02-12,2024-07-25,,Ahmedabad,arunima.golla@company.com,Diploma,1193
+1153,Umang Comar,,ENGINEERING,QA Engineer,MALE,1988-06-12,2022-11-13,2024-08-12,Bangalore ,umang.comar@company.com,Masters,1095
+1171,Widisha Dhar,,ENGINEERING,Engineering Manager,Male,2000-07-21,2019-02-03,,Kolkata ,widisha.dhar@company.com,PhD,1190
+1174,Panini Krishna,,engineering,DevOps Engineer,Female,1980-08-04,2021-12-29,,HYDERABAD,panini.krishna@company.com,PhD,1193
+1238,Oscar Dua,,Engineering,Software Engineer,M,1973-01-09,2020-05-08,,Ahmedabad,oscar.dua@company.com,Diploma,1117
+1258,Gayathri Deep,,Engineering,DevOps Engineer,Female,2001-01-15,2025-02-20,,visakhapatnam,gayathri.deep@company.com,Bachelors,1101
+1265,Harshil Varty,,Engineering,Engineering Manager,male,1985-09-21,2018-11-17,,pune,harshil.varty@company.com,Diploma,1379
+1296,Janaki Rajagopal,,Engineering,QA Engineer,FEMALE,1997-01-16,2018-12-31,,Calcutta,janaki.rajagopal@company.com,Masters,1307
+1307,Mitali Srinivas,,engineering,QA Engineer,Male,1970-09-26,2023-05-10,,Pune ,mitali.srinivas@company.com,PhD,1238
+1327,Raagini Desai,,Engineering,Engineering Manager,M,1967-10-09,2020-09-29,,vijayawada,raagini.desai@company.com,Bachelors,1258
+1371,Yug Bumb,,ENGINEERING,DevOps Engineer,M,1997-12-08,2024-07-08,2025-08-13,hyderabad,yug.bumb@company.com,Masters,1050
+1378,Osha Prasad,,ENGINEERING,Senior Software Engineer,female,1982-12-31,2018-09-18,,CHENNAI,osha.prasad@company.com,Diploma,1126
+1379,Keya Buch,,ENGINEERING,Senior Software Engineer,MALE,1981-12-29,2026-05-27,,Delhi ,keya.buch@company.com,PhD,1204
+1395,Shivani Prabhakar,,engineering,DevOps Engineer,F,1980-01-05,2020-07-01,,kolkata,shivani.prabhakar@company.com,PhD,1067
+1017,Priya Rastogi,,Engineering ,Engineering Manager,M,1995-10-09,2019-07-30,,,priya.rastogi@company.com,Diploma,1378
+1029,Kashvi Sarma,,Engineering ,Senior Software Engineer,M,1994-07-21,2023-12-24,,Visakhapatnam,kashvi.sarma@company.com,Bachelors,1046
+1034,Xavier Solanki,,Engineering ,Senior Software Engineer,M,2003-01-04,2019-07-09,,PUNE,xavier.solanki@company.com,PhD,1050
+1085,Hredhaan Sandal,,Engineering ,Senior Software Engineer,M,1992-05-23,2020-05-30,,pune,hredhaan.sandal@company.com,PhD,1307
+1190,Lipika Setty,,Engineering ,DevOps Engineer,F,1976-05-20,2019-05-23,2022-02-12,delhi,,Diploma,1384
+1193,Warinder Patil,,Engineering ,Engineering Manager,male,1975-09-19,2023-12-25,2024-05-17,Chennai,warinder.patil@company.com,Bachelors,1395
+1194,Darsh Rao,,Engineering ,Software Engineer,FEMALE,1988-02-25,2023-12-11,,Ahmedabad,darsh.rao@company.com,Diploma,1298
+1298,Jeevika Rao,,Engineering ,DevOps Engineer,male,1996-06-16,2021-06-08,,Bangalore ,jeevika.rao@company.com,Diploma,1296
+1384,Azad Saini,,Engineering ,QA Engineer,F,2003-01-31,2020-08-31,2024-04-16,hyderabad,azad.saini@company.com,Masters,
+1405,Kashvi Sarma,,Engineering ,Senior Software Engineer,M,1994-07-21,2023-12-24,,Visakhapatnam,kashvi.sarma@company.com,Bachelors,1046
+1057,George Sampath,,Fin,AP Specialist,male,2001-11-12,2022-05-15,2025-10-16,,george.sampath@company.com,Diploma,1018
+1071,Balvan Chopra,,Fin,AP Specialist,female,1977-05-21,2025-06-22,,ahmedabad,balvan.chopra@company.com,Diploma,1099
+1099,Avi Ramesh,,Fin,Accountant,Female,1999-05-27,2024-04-02,,AHMEDABAD,avi.ramesh@company.com,Diploma,1168
+1146,Naveen Narayan,,Fin,AP Specialist,female,1980-02-16,2021-03-30,,AHMEDABAD,naveen.narayan@company.com,Masters,1099
+1276,Pushti Agarwal,,Fin,AP Specialist,MALE,1994-10-07,2023-01-22,,pune,pushti.agarwal@company.com,PhD,1308
+1288,Watika Tank,,Fin,AP Specialist,female,1982-02-25,2025-08-13,,Bangalore ,watika.tank@company.com,Diploma,1041
+1308,Jeremiah Nadig,,Fin,AP Specialist,Male,1996-09-09,2022-08-31,2025-02-28,bangalore,jeremiah.nadig@company.com,Masters,1351
+1325,Wridesh Kale  ,,Fin,Financial Analyst,male,2003-05-19,2018-08-24,,Hyderabad ,wridesh.kale@company.com,Masters,1358
+1364,Qasim Dey,,Fin,Financial Analyst,F,1970-10-03,2022-08-01,,Hyderabad,qasim.dey@company.com,PhD,1035
+1372,David Tiwari  ,,Fin,Accountant,F,1981-03-17,2022-09-07,2023-07-30,hyderabad,david.tiwari@company.com,PhD,1130
+1003,Rushil Saini,,Finance,AP Specialist,F,1975-10-08,2018-09-13,,Ahmedabad ,rushil.saini@company.com,PhD,1166
+1008,Rehaan Boase,,finance,Finance Manager,M,1990-12-19,2025-02-03,,BANGALORE,rehaan.boase@company.com,Diploma,1277
+1018,Yashodhara Tak,,FINANCE,Accountant,FEMALE,2005-05-11,2021-05-10,,Pune ,yashodhara.tak@company.com,Bachelors,1308
+1035,Raagini Pandya,,FINANCE,Finance Manager,Female,1974-09-11,2024-12-01,,Mumbai,raagini.pandya@company.com,Diploma,1277
+1041,Daniel Gala,,finance,Accountant,F,1975-08-01,2022-05-06,,,daniel.gala@company.com,Masters,1130
+1111,Yashawini Om,,finance,Accountant,Female,1992-08-06,2022-09-21,,Ahmedabad,yashawini.om@company.com,PhD,1003
+1130,Ethan Bera,,Finance,AP Specialist,female,1969-12-10,2019-05-17,,Vijayawada ,ethan.bera@company.com,PhD,1245
+1134,Siddharth Lalla,,FINANCE,Accountant,male,1995-08-02,2023-05-03,,Delhi,siddharth.lalla@company.com,PhD,1111
+1135,Falan Dugar,,FINANCE,AP Specialist,Male,1973-06-05,2023-09-29,,kolkata,falan.dugar@company.com,PhD,1057
+1143,Amruta Baria,,Finance,Finance Manager,FEMALE,1976-02-28,2018-09-01,,Bangalore,,Diploma,1019
+1166,Balendra Biswas,,FINANCE,Financial Analyst,M,1979-06-30,2021-07-02,,vijayawada,balendra.biswas@company.com,Bachelors,1099
+1168,Sachi Ganesan,,FINANCE,Accountant,F,1971-03-15,2021-12-06,2025-02-14,KOLKATA,sachi.ganesan@company.com,Bachelors,1071
+1198,Falguni Divan  ,,finance,AP Specialist,Female,1998-05-11,2023-02-24,,Bangalore,falguni.divan@company.com,PhD,1358
+1217,Ishwar Mallick,,Finance,Financial Analyst,Male,1971-07-29,2020-04-03,,Kolkata ,ishwar.mallick@company.com,PhD,1035
+1219,Harinakshi Panchal,,Finance,Finance Manager,F,1994-03-01,2019-11-26,,Vijayawada,harinakshi.panchal@company.com,Masters,1099
+1240,Ekantika Mutti,,finance,Finance Manager,F,1996-05-03,2024-06-29,,Ahmedabad ,ekantika.mutti@company.com,PhD,1217
+1243,Faraj Chana  ,,Finance,Accountant,MALE,1969-08-15,2022-01-28,,Pune ,faraj.chana@company.com,Masters,1364
+1246,Harshil Oza,,Finance,AP Specialist,F,2003-11-09,2022-06-21,,mumbai,harshil.oza@company.com,Bachelors,1308
+1256,Laksh Dubey,,FINANCE,Accountant,FEMALE,1985-12-09,2026-01-15,,Ahmedabad,laksh.dubey@company.com,PhD,1018
+1262,Jhalak Sastry,,finance,AP Specialist,Female,1997-04-08,2026-03-08,,Calcutta,jhalak.sastry@company.com,PhD,1240
+1277,Rachit Chada,,Finance,Finance Manager,FEMALE,1976-08-08,2023-05-18,,Chennai ,rachit.chada@company.com,Diploma,1240
+1310,Jeet Vasa,,FINANCE,AP Specialist,male,1972-05-12,2024-08-07,2025-01-08,bangalore,jeet.vasa@company.com,Diploma,1325
+1348,Hemani Dhingra,,FINANCE,Accountant,Male,1988-02-07,2023-01-18,,bangalore,hemani.dhingra@company.com,Diploma,1018
+1350,Saksham Yohannan,,Finance,AP Specialist,Female,1995-11-11,2023-09-16,2024-07-28,Kolkata,saksham.yohannan@company.com,Masters,1135
+1358,Baljiwan Andra,,Finance,Accountant,Female,1995-12-04,2019-12-14,,Bangalore,baljiwan.andra@company.com,Diploma,1287
+1385,Samuel Bhavsar,,Finance,Finance Manager,MALE,2001-03-30,2025-12-12,,visakhapatnam,samuel.bhavsar@company.com,Masters,1083
+1393,Ubika Bhardwaj,,FINANCE,Finance Manager,female,1978-11-21,2025-04-02,,MUMBAI,ubika.bhardwaj@company.com,PhD,1122
+1403,Harshil Oza,,Finance,AP Specialist,F,2003-11-09,2022-06-21,,mumbai,harshil.oza@company.com,Bachelors,1308
+1019,Michael Dutta,,Finance ,Accountant,F,1969-04-01,2019-03-10,2024-12-25,Bangalore ,michael.dutta@company.com,Masters,1350
+1072,Rajata Vaidya,,Finance ,Finance Manager,female,1980-08-06,2023-03-26,,Pune,rajata.vaidya@company.com,Masters,1348
+1076,Nilima Narain,,Finance ,Financial Analyst,F,1978-11-15,2024-03-20,2025-03-20,mumbai,nilima.narain@company.com,Masters,1385
+1083,Tamanna Sachdeva,,Finance ,Finance Manager,Male,2004-11-07,2018-10-30,,,tamanna.sachdeva@company.com,Bachelors,
+1122,Indira Setty,,Finance ,Accountant,M,1983-08-18,2022-09-15,2023-11-04,ahmedabad,indira.setty@company.com,Masters,1071
+1148,Netra Varkey,,Finance ,Financial Analyst,F,1977-01-19,2019-03-02,,Chennai,netra.varkey@company.com,Masters,1072
+1245,Ekanta Soni,,Finance ,Financial Analyst,Female,1989-03-08,2025-09-24,,Pune,ekanta.soni@company.com,Masters,1057
+1287,Mugdha Sarraf,,Finance ,Finance Manager,M,1997-11-01,2020-08-24,,Bengaluru,mugdha.sarraf@company.com,PhD,1308
+1351,Wriddhish Kibe,,Finance ,Financial Analyst,F,1977-10-13,2022-12-15,2023-04-15,kolkata,wriddhish.kibe@company.com,PhD,1018
+1274,Oni Shankar,,H.R.,HR Generalist,F,1972-02-03,2020-05-12,,VIJAYAWADA,oni.shankar@company.com,Diploma,1312
+1381,Udant Aggarwal,,H.R.,HR Manager,Male,1987-11-17,2019-11-21,,MUMBAI,udant.aggarwal@company.com,Masters,1177
+1012,Ladli Madan,,hr,HR Generalist,M,1976-10-05,2022-09-25,,BANGALORE,ladli.madan@company.com,Bachelors,1164
+1078,Daksha Mangat,,HR,Recruiter,male,1978-11-24,2023-05-20,,hyderabad,,Diploma,1164
+1089,Vaishnavi Sengupta,,hr,HR Generalist,FEMALE,1988-04-12,2025-02-07,,Kolkata ,vaishnavi.sengupta@company.com,Bachelors,1156
+1156,Yashoda Deshpande,,HR,Recruiter,female,1972-12-15,2022-02-11,2025-11-22,Pune ,yashoda.deshpande@company.com,PhD,1164
+1164,Upasna Lanka,,HR,Recruiter,M,2004-04-27,2025-06-04,,DELHI,upasna.lanka@company.com,PhD,1157
+1181,Kevin Zacharia,,HR,HR Executive,F,1983-04-02,2021-01-27,2025-10-25,CHENNAI,kevin.zacharia@company.com,PhD,1274
+1183,Hamsini Contractor,,hr,Recruiter,Female,2003-05-05,2025-10-08,,Visakhapatnam,,Masters,
+1235,Dayita Nori,,hr,HR Generalist,Male,1987-05-16,2023-03-04,,Kolkata,dayita.nori@company.com,PhD,1290
+1252,Dayita Ramanathan,,HR,HR Executive,Male,1972-11-01,2023-02-14,,Kolkata,dayita.ramanathan@company.com,Diploma,1336
+1266,Anjali Sengupta,,HR,HR Generalist,female,1978-04-17,2025-04-08,2026-05-13,Vijayawada ,anjali.sengupta@company.com,PhD,1089
+1285,Zehaan Bansal  ,,hr,Recruiter,FEMALE,2005-01-18,2022-08-01,,kolkata,zehaan.bansal@company.com,Masters,1078
+1290,Chaaya Nagi,,hr,Recruiter,male,1990-05-10,2019-02-03,,bangalore,chaaya.nagi@company.com,Diploma,1300
+1302,Orinder Saxena,,HR,Recruiter,FEMALE,1999-11-14,2019-06-11,,Vizag,orinder.saxena@company.com,PhD,1381
+1311,Hiral Venkataraman,,hr,HR Manager,MALE,1979-09-21,2019-10-11,,Bengaluru,hiral.venkataraman@company.com,Masters,1285
+1312,Ronith Maharaj,,HR,HR Generalist,Female,1999-08-10,2025-08-14,,ahmedabad,ronith.maharaj@company.com,Bachelors,1177
+1326,Warda Singhal,,hr,HR Executive,FEMALE,1969-04-23,2023-02-15,,,warda.singhal@company.com,PhD,1089
+1338,Charan Srinivasan,,HR,HR Executive,female,1992-05-16,2020-08-01,,MUMBAI,charan.srinivasan@company.com,Masters,1311
+1352,Charles Chaudhry,,hr,Recruiter,Male,1976-01-14,2025-09-13,2026-02-10,Hyd,charles.chaudhry@company.com,PhD,1397
+1397,Elijah Guha,,hr,Recruiter,M,1990-06-13,2021-06-23,,,elijah.guha@company.com,Masters,1181
+1066,Balvan Singhal,,HR ,Recruiter,MALE,1994-02-09,2019-09-26,,BANGALORE,balvan.singhal@company.com,Masters,1311
+1086,Chandresh Krish,,HR ,HR Executive,male,1998-01-07,2020-03-18,,Hyderabad ,chandresh.krish@company.com,Bachelors,1235
+1098,Gayathri Ravel,,HR ,HR Generalist,FEMALE,1985-11-30,2020-08-23,,Kolkata ,gayathri.ravel@company.com,PhD,1089
+1177,Watika Mangat,,HR ,HR Generalist,female,1988-12-19,2020-08-27,,Delhi,watika.mangat@company.com,Diploma,1086
+1207,Ekta Raj,,HR ,HR Generalist,FEMALE,1969-12-15,2023-04-29,,AHMEDABAD,ekta.raj@company.com,Diploma,1253
+1253,Dayita Puri,,HR ,HR Manager,MALE,1994-05-25,2019-06-29,2024-01-13,Bengaluru,dayita.puri@company.com,Bachelors,1089
+1299,Atharv Grewal,,HR ,HR Manager,male,1978-01-19,2020-12-22,,Bombay,,PhD,1089
+1300,Adweta Lad,,HR ,Recruiter,Female,1982-03-02,2022-06-14,,pune,adweta.lad@company.com,Diploma,1089
+1336,Vaishnavi Badal,,HR ,HR Generalist,female,1987-09-09,2025-01-31,,delhi,vaishnavi.badal@company.com,Diploma,1266
+1401,Balvan Singhal.,,HR ,Recruiter,MALE,1994-02-09,2019-09-26,,BANGALORE,balvan.singhal@company.com,Masters,1311
+1113,Michael Saran,,Human Resources,HR Manager,F,1991-08-12,2026-02-22,,CHENNAI,michael.saran@company.com,Diploma,1285
+1157,Harini Tripathi,,Human Resources,HR Executive,F,1997-06-25,2020-09-01,2022-05-03,visakhapatnam,harini.tripathi@company.com,PhD,1392
+1200,Atharv Deep,,Human Resources,HR Generalist,FEMALE,1997-10-21,2022-10-12,,Kolkata,atharv.deep@company.com,Bachelors,1183
+1347,Ikshita Mahal,,Human Resources,HR Executive,Male,1986-01-16,2023-12-25,2024-10-23,Vijayawada ,ikshita.mahal@company.com,PhD,1352
+1392,Urvashi Khosla,,Human Resources,HR Manager,M,1978-11-09,2021-09-22,,PUNE,urvashi.khosla@company.com,Bachelors,1266
+1056,Aishani Tiwari,,I.T.,IT Support Engineer,Male,1994-09-24,2023-04-19,,pune,aishani.tiwari@company.com,Masters,1309
+1065,Yuvraj Loke,,I.T.,IT Support Engineer,male,2002-08-04,2019-11-23,,ahmedabad,yuvraj.loke@company.com,Bachelors,1212
+1091,Wahab Magar,,I.T.,IT Manager,male,1970-05-28,2020-08-28,,Vizag,wahab.magar@company.com,Bachelors,1150
+1093,Devansh Sachdeva,,I.T.,IT Support Engineer,FEMALE,1993-10-31,2020-04-23,,Mumbai ,devansh.sachdeva@company.com,Bachelors,1359
+1120,Vritti Sem,,I.T.,Network Engineer,female,1976-08-04,2022-11-25,2025-10-04,Mumbai,vritti.sem@company.com,Diploma,1213
+1150,Riya Behl,,I.T.,IT Support Engineer,Female,1981-03-17,2019-12-17,,New Delhi,riya.behl@company.com,Bachelors,1383
+1158,Manthan Sekhon,,I.T.,System Administrator,Male,1995-01-19,2018-06-25,2022-11-08,Bombay,,Bachelors,1303
+1184,Mekhala Pau,,I.T.,Network Engineer,MALE,1970-04-28,2022-03-16,,kolkata,,PhD,1056
+1214,Jason Roy,,I.T.,IT Manager,female,1988-10-19,2023-02-25,,Delhi,jason.roy@company.com,Diploma,1254
+1216,Mohammed Subramaniam,,I.T.,System Administrator,F,1989-06-03,2021-04-10,,Mumbai,mohammed.subramaniam@company.com,Masters,1239
+1383,Hiral Dubey  ,,I.T.,Network Engineer,female,1976-03-09,2021-06-29,,chennai,hiral.dubey@company.com,PhD,
+1051,Ethan Yogi,,Information Technology,IT Support Engineer,F,2005-05-27,2022-02-15,,DELHI,ethan.yogi@company.com,Diploma,1112
+1055,Anita Manda,,Information Technology,IT Manager,FEMALE,1995-09-03,2025-07-29,,mumbai,anita.manda@company.com,PhD,1293
+1082,Manan Bakshi,,Information Technology,Network Engineer,Female,1975-12-31,2023-11-04,,Pune,manan.bakshi@company.com,Masters,1129
+1096,Oni Yohannan,,Information Technology,System Administrator,M,1980-10-29,2018-07-05,,Delhi,oni.yohannan@company.com,PhD,1216
+1107,Nihal Mukhopadhyay,,Information Technology,IT Manager,F,2004-01-31,2023-04-22,,Hyderabad,nihal.mukhopadhyay@company.com,Diploma,1065
+1109,Harsh Mitra,,Information Technology,IT Support Engineer,female,1974-12-30,2025-12-28,,MUMBAI,harsh.mitra@company.com,Bachelors,
+1129,Zayyan Sridhar,,Information Technology,Network Engineer,M,1974-06-19,2021-12-25,,BANGALORE,zayyan.sridhar@company.com,Diploma,1214
+1149,Odika Bhagat,,Information Technology,Network Engineer,female,1967-07-03,2025-01-21,,AHMEDABAD,odika.bhagat@company.com,Masters,1273
+1163,Maanas Rout,,Information Technology,IT Manager,Male,2002-01-21,2019-04-05,,KOLKATA,maanas.rout@company.com,Bachelors,1149
+1212,Frederick Chander,,Information Technology,Network Engineer,male,1985-06-25,2023-12-15,,VIJAYAWADA,frederick.chander@company.com,PhD,1120
+1273,Indrajit Mani,,Information Technology,IT Manager,M,1995-02-05,2022-11-07,,VISAKHAPATNAM,indrajit.mani@company.com,PhD,1398
+1293,Radhika Maharaj,,Information Technology,System Administrator,FEMALE,2000-07-10,2018-10-19,,Mumbai ,radhika.maharaj@company.com,Diploma,1093
+1354,Vansha Iyengar,,Information Technology,IT Manager,F,2002-12-29,2021-09-18,,Chennai ,vansha.iyengar@company.com,PhD,1394
+1387,Daksh Dey,,Information Technology,IT Manager,FEMALE,1976-05-13,2021-09-05,,Bombay,daksh.dey@company.com,Bachelors,
+1394,Lipika Kibe,,Information Technology,IT Support Engineer,Male,2004-03-27,2022-12-16,,DELHI,lipika.kibe@company.com,Masters,1212
+1024,Aadi Naik,,it,System Administrator,Male,1973-04-08,2023-05-01,,VISAKHAPATNAM,aadi.naik@company.com,Bachelors,1070
+1027,Kabir Soman,,IT,System Administrator,Female,1987-09-14,2026-04-13,,MUMBAI,kabir.soman@company.com,Bachelors,1259
+1049,Meghana Deep,,it,System Administrator,Female,1979-05-26,2023-10-26,,KOLKATA,meghana.deep@company.com,PhD,1065
+1053,Abhiram Mistry,,IT,IT Support Engineer,MALE,1973-06-15,2021-06-01,,kolkata,abhiram.mistry@company.com,Diploma,1090
+1070,Ayaan D’Alia,,it,Network Engineer,Female,2004-09-29,2021-08-28,,AHMEDABAD,ayaan.d’alia@company.com,Diploma,1303
+1077,Ladli Ghosh,,it,IT Manager,female,1972-04-18,2020-10-28,,ahmedabad,ladli.ghosh@company.com,PhD,1306
+1090,Vedhika Khare,,IT,IT Manager,F,1976-11-08,2020-07-14,,Vizag,vedhika.khare@company.com,Diploma,1306
+1104,Azaan Kota,,IT,System Administrator,male,1970-01-25,2020-04-02,2021-08-15,PUNE,azaan.kota@company.com,PhD,1202
+1112,Hitesh Sant,,IT,IT Support Engineer,female,1983-06-04,2018-07-24,,AHMEDABAD,hitesh.sant@company.com,Diploma,1335
+1213,Kalpit Bhasin,,it,System Administrator,female,1995-10-03,2021-11-30,,MUMBAI,kalpit.bhasin@company.com,Masters,1330
+1218,Amara Balakrishnan,,it,IT Support Engineer,MALE,1998-02-19,2023-01-19,,,amara.balakrishnan@company.com,Diploma,1120
+1228,Aadhya Mann  ,,it,IT Manager,F,1975-06-27,2020-11-14,,Visakhapatnam,aadhya.mann@company.com,Diploma,1236
+1236,Yashvi Comar,,it,Network Engineer,FEMALE,1997-01-25,2020-03-26,,KOLKATA,yashvi.comar@company.com,Masters,1335
+1239,Wakeeta Shetty,,IT,System Administrator,M,1992-05-15,2024-07-16,,Calcutta,wakeeta.shetty@company.com,PhD,
+1247,Balveer Kota,,it,System Administrator,male,1970-08-31,2026-04-26,,AHMEDABAD,balveer.kota@company.com,Diploma,1259
+1259,Noah Sarma,,IT,Network Engineer,M,1973-04-28,2023-03-28,,vijayawada,noah.sarma@company.com,Diploma,1236
+1303,Idika Bhattacharyya,,IT,Network Engineer,MALE,1998-04-05,2026-06-09,,VIJAYAWADA,idika.bhattacharyya@company.com,Bachelors,1149
+1306,Unni Dayal,,it,Network Engineer,female,1981-03-05,2022-05-31,,hyderabad,unni.dayal@company.com,PhD,1387
+1317,Chameli Setty,,it,IT Support Engineer,Male,1998-01-15,2022-04-28,2022-10-10,Hyderabad,chameli.setty@company.com,Diploma,1305
+1335,Gayathri Tripathi,,it,IT Manager,Male,2005-02-07,2019-10-05,,mumbai,gayathri.tripathi@company.com,Bachelors,1239
+1360,Krish Thaman,,IT,System Administrator,female,1988-02-09,2026-05-16,2026-06-18,Chennai,krish.thaman@company.com,PhD,1104
+1087,Ucchal Wali,,IT ,IT Manager,FEMALE,1972-01-27,2025-10-18,,Visakhapatnam,ucchal.wali@company.com,Bachelors,1273
+1152,Nathan Mukhopadhyay,,IT ,IT Support Engineer,M,1990-08-07,2026-03-30,,Delhi,nathan.mukhopadhyay@company.com,Diploma,1248
+1185,Jatin Sha,,IT ,System Administrator,M,1982-06-15,2019-03-08,,BANGALORE,jatin.sha@company.com,Bachelors,1293
+1185,Jatin Sha,,IT ,System Administrator,M,1982-06-15,2019-03-08,,BANGALORE,jatin.sha@company.com,Bachelors,1293
+1202,Ishaan Bhatt,,IT ,Network Engineer,M,1969-06-14,2019-11-08,,PUNE,ishaan.bhatt@company.com,PhD,1087
+1248,Januja Pradhan,,IT ,IT Manager,FEMALE,2005-02-12,2024-02-13,,Pune,januja.pradhan@company.com,Diploma,1273
+1254,Pallavi Trivedi,,IT ,Network Engineer,Male,1972-04-25,2021-02-01,,Hyderabad,pallavi.trivedi@company.com,PhD,1077
+1272,Aahana Kale,,IT ,IT Support Engineer,female,2001-11-19,2023-05-20,2025-12-24,Chennai ,aahana.kale@company.com,PhD,1055
+1305,Sai Dewan,,IT ,IT Manager,Male,1986-10-17,2024-10-22,2025-04-28,Hyderabad,,Masters,1109
+1309,Kabir Gopal,,IT ,IT Support Engineer,F,1993-04-21,2022-01-22,,Hyderabad ,kabir.gopal@company.com,Bachelors,1293
+1330,Jagat Dave,,IT ,System Administrator,Male,1986-08-16,2019-01-18,2026-04-13,kolkata,jagat.dave@company.com,PhD,1394
+1342,Lakshit Venkataraman,,IT ,IT Support Engineer,FEMALE,2002-06-10,2024-08-28,,Chennai,lakshit.venkataraman@company.com,Diploma,1309
+1359,Bhavani Sha,,IT ,Network Engineer,female,1990-05-14,2020-11-05,,Chennai ,bhavani.sha@company.com,Bachelors,1107
+1367,David Dani,,IT ,Network Engineer,M,1981-02-14,2020-07-20,,PUNE,david.dani@company.com,Diploma,1149
+1398,Varenya Joshi,,IT ,IT Support Engineer,FEMALE,1989-10-15,2024-11-23,,Chennai ,varenya.joshi@company.com,Diploma,1214
+1009,Fariq Kaul,,Marketing,Content Specialist,male,1976-02-14,2018-10-29,,Vijayawada ,fariq.kaul@company.com,PhD,1114
+1036,Guneet Bhat,,MARKETING,Marketing Executive,F,1985-03-17,2021-11-06,,Hyderabad ,guneet.bhat@company.com,Diploma,1114
+1080,Omkaar Chad,,Marketing,SEO Analyst,Male,1975-08-01,2021-12-30,,bangalore,omkaar.chad@company.com,Masters,1189
+1102,Arunima Sama,,MARKETING,Marketing Manager,FEMALE,1979-11-18,2020-02-26,,AHMEDABAD,arunima.sama@company.com,Diploma,1172
+1114,Veda Shroff,,marketing,Marketing Manager,F,1987-04-15,2019-11-14,,BANGALORE,veda.shroff@company.com,PhD,1237
+1121,Damini Pillay,,marketing,Content Specialist,Female,1975-11-18,2019-03-16,2022-09-22,Bangalore,damini.pillay@company.com,PhD,1170
+1125,Harish Hari,,Marketing,Marketing Executive,FEMALE,1977-12-19,2024-05-14,,Chennai ,harish.hari@company.com,PhD,1264
+1131,Frederick Kothari,,Marketing,Marketing Manager,Female,1998-04-14,2019-09-04,2020-08-15,Chennai ,frederick.kothari@company.com,Bachelors,1260
+1136,Bishakha Bali,,marketing,Marketing Manager,MALE,1984-07-30,2018-06-25,,Vijayawada,bishakha.bali@company.com,Masters,1009
+1138,Pavani Contractor,,marketing,Marketing Manager,M,1997-05-26,2025-11-06,,Ahmedabad,pavani.contractor@company.com,Bachelors,1036
+1151,Raksha Sundaram,,MARKETING,SEO Analyst,Male,1988-05-01,2020-02-02,2021-01-02,Delhi,raksha.sundaram@company.com,Diploma,1375
+1167,Utkarsh Chana,,Marketing,SEO Analyst,Female,1993-06-20,2020-05-03,,Chennai,utkarsh.chana@company.com,PhD,1275
+1172,Aadhya Andra,,Marketing,Marketing Executive,male,1991-09-14,2020-04-26,,vijayawada,aadhya.andra@company.com,Bachelors,1376
+1225,Yauvani Comar,,MARKETING,SEO Analyst,female,1983-03-14,2023-04-26,,Bombay,yauvani.comar@company.com,Bachelors,1167
+1227,Abhimanyu Jayaraman,,marketing,Marketing Executive,F,2004-11-14,2020-03-23,,Pune ,,Masters,1225
+1250,Bhanumati Krishnan,,marketing,SEO Analyst,MALE,1971-01-19,2018-12-27,,pune,bhanumati.krishnan@company.com,Diploma,9999
+1255,Tanish Om,,marketing,Marketing Executive,Female,1981-03-28,2021-05-09,,Kolkata,tanish.om@company.com,Masters,
+1270,Madhav Devan,,marketing,Marketing Manager,FEMALE,1971-03-24,2021-01-03,2021-05-17,PUNE,madhav.devan@company.com,Diploma,1033
+1271,Upasna Sen,,marketing,SEO Analyst,FEMALE,1985-05-31,2025-10-18,,Bangalore ,upasna.sen@company.com,Masters,1270
+1275,Amol Varma,,marketing,SEO Analyst,M,1999-04-04,2018-12-18,,Vijayawada,amol.varma@company.com,Diploma,1005
+1275,Amol Varma,,marketing,SEO Analyst,M,1999-04-04,2018-12-18,,Vijayawada,amol.varma@company.com,Diploma,1005
+1319,Hemani Rastogi,,marketing,Marketing Executive,male,2000-03-13,2019-08-11,,Kolkata ,hemani.rastogi@company.com,Bachelors,1161
+1321,Lohit Chatterjee,,Marketing,Content Specialist,M,1977-08-16,2022-03-11,,BANGALORE,lohit.chatterjee@company.com,PhD,1081
+1321,Lohit Chatterjee,,Marketing,Content Specialist,M,1977-08-16,2022-03-11,,BANGALORE,lohit.chatterjee@company.com,PhD,1081
+1322,Yuvraj Dutta  ,,MARKETING,Content Specialist,Male,2003-05-21,2018-11-12,,Vijayawada,yuvraj.dutta@company.com,PhD,1021
+1337,Darika Bala,,MARKETING,SEO Analyst,Male,1993-01-24,2021-05-28,2024-06-27,pune,darika.bala@company.com,PhD,1222
+1376,Elijah Bath,,MARKETING,SEO Analyst,F,1998-06-27,2021-08-17,2023-10-08,Chennai,elijah.bath@company.com,Diploma,1322
+1377,Ekapad Sodhi,,MARKETING,Marketing Manager,female,1988-01-10,2024-01-23,,,ekapad.sodhi@company.com,Diploma,1121
+1382,Panini Wali,,Marketing,Marketing Manager,Female,2004-08-23,2024-07-04,,delhi,panini.wali@company.com,PhD,1179
+1389,Odika Mital,,MARKETING,Marketing Manager,F,1972-11-26,2020-11-15,,pune,odika.mital@company.com,Masters,1377
+1015,Simon Tata,,Marketing ,Content Specialist,Female,1989-01-05,2025-10-06,,CHENNAI,simon.tata@company.com,Diploma,1292
+1021,Amara Oak,,Marketing ,SEO Analyst,MALE,2003-04-10,2022-11-19,,mumbai,amara.oak@company.com,Diploma,1345
+1033,Tanish Zacharia,,Marketing ,Content Specialist,Female,1976-07-03,2019-01-10,,Delhi ,,PhD,1260
+1045,Dakshesh Trivedi,,Marketing ,Marketing Executive,M,1985-07-30,2018-11-11,,Vizag,dakshesh.trivedi@company.com,Diploma,1036
+1161,Libni Doshi,,Marketing ,SEO Analyst,FEMALE,1995-10-05,2018-10-23,,Mumbai ,libni.doshi@company.com,PhD,1102
+1189,Daksha Tailor  ,,Marketing ,SEO Analyst,Female,1969-03-08,2019-05-24,,delhi,daksha.tailor@company.com,PhD,1322
+1192,Ati Bali,,Marketing ,Marketing Executive,male,1999-02-21,2023-09-13,,pune,ati.bali@company.com,PhD,1179
+1209,Qushi Seth,,Marketing ,Content Specialist,FEMALE,1994-02-16,2019-04-03,2025-09-03,hyderabad,qushi.seth@company.com,Masters,1004
+1221,Tanveer Puri,,Marketing ,Marketing Executive,FEMALE,2004-05-22,2024-05-21,,vijayawada,tanveer.puri@company.com,Diploma,1179
+1260,Sachi Mane,,Marketing ,Marketing Executive,Female,1981-04-21,2018-10-23,,bangalore,sachi.mane@company.com,PhD,1377
+1292,Indali Sekhon  ,,Marketing ,Content Specialist,Female,1983-08-27,2023-04-13,,CHENNAI,indali.sekhon@company.com,Bachelors,1060
+1314,Geetika Barman,,Marketing ,Marketing Executive,M,1989-07-11,2023-03-12,,Pune ,geetika.barman@company.com,PhD,1121
+1318,Ucchal Jani,,Marketing ,SEO Analyst,F,1984-03-01,2018-12-10,2021-08-10,Vizag,ucchal.jani@company.com,Bachelors,1209
+1345,Arya Misra,,Marketing ,SEO Analyst,F,1974-10-07,2023-05-05,,Chennai,arya.misra@company.com,Diploma,9999
+1355,Daniel Chakraborty,,Marketing ,Content Specialist,MALE,1978-05-17,2024-07-04,,Chennai,daniel.chakraborty@company.com,Masters,1009
+1004,Nathaniel Sami,,Mktg,Content Specialist,Female,1989-11-08,2020-03-22,2022-06-15,MUMBAI,nathaniel.sami@company.com,PhD,1209
+1005,Harsh Chanda,,Mktg,Marketing Executive,Male,2003-11-02,2019-09-15,,Delhi ,harsh.chanda@company.com,PhD,1255
+1011,Ekbal Garg,,Mktg,Content Specialist,FEMALE,1975-06-03,2021-06-03,,MUMBAI,ekbal.garg@company.com,Masters,
+1060,Balendra Pingle,,Mktg,SEO Analyst,M,2001-01-07,2019-01-23,,DELHI,balendra.pingle@company.com,Masters,1167
+1081,Girik Keer,,Mktg,Marketing Executive,M,1992-09-08,2020-09-23,,Bombay,girik.keer@company.com,Diploma,1015
+1139,Lucky Bora,,Mktg,SEO Analyst,female,1992-01-27,2022-10-25,,visakhapatnam,lucky.bora@company.com,Bachelors,1195
+1142,Ekantika Krishna,,Mktg,Marketing Manager,M,1990-03-09,2021-12-17,,bangalore,ekantika.krishna@company.com,Diploma,1004
+1170,Onkar Gill,,Mktg,SEO Analyst,F,1987-08-24,2019-08-17,,Hyderabad,onkar.gill@company.com,PhD,1241
+1179,Gunbir Baral,,Mktg,Marketing Manager,female,1993-03-20,2023-06-05,2024-06-23,DELHI,,Bachelors,1271
+1195,Gavin Kala,,Mktg,Marketing Manager,male,2004-04-02,2020-08-31,,DELHI,gavin.kala@company.com,Bachelors,1318
+1222,Devika Nair,,Mktg,Content Specialist,female,1980-05-31,2021-10-26,2025-06-17,bangalore,devika.nair@company.com,Bachelors,1172
+1226,Darika Bath,,Mktg,Marketing Manager,male,1971-09-04,2021-03-22,,mumbai,,Diploma,1389
+1237,Indali Divan,,Mktg,Content Specialist,Male,1974-10-30,2022-09-14,,bangalore,indali.divan@company.com,Masters,1170
+1241,Chavvi Maharaj,,Mktg,Marketing Executive,MALE,1970-01-20,2019-09-01,,Kolkata,chavvi.maharaj@company.com,PhD,1222
+1264,Lakshit Krishna,,Mktg,SEO Analyst,MALE,1973-08-14,2021-10-22,,delhi,lakshit.krishna@company.com,Diploma,1036
+1267,Shravya Palla,,Mktg,Marketing Executive,MALE,1984-02-01,2019-08-22,,Chennai,shravya.palla@company.com,Bachelors,1241
+1320,Eiravati Khurana,,Mktg,SEO Analyst,Male,1981-07-17,2019-07-04,,Mumbai ,eiravati.khurana@company.com,Bachelors,1221
+1361,Ganga Gaba,,Mktg,Marketing Executive,F,1974-10-15,2022-03-16,2025-05-12,Bangalore,ganga.gaba@company.com,Bachelors,1237
+1375,Darika Bains,,Mktg,Marketing Manager,FEMALE,1988-11-21,2021-10-13,,Visakhapatnam,darika.bains@company.com,Masters,1167
+1006,Aishani Bassi  ,,operations,Logistics Coordinator,male,1981-02-06,2021-07-01,2025-03-01,Mumbai,aishani.bassi@company.com,Masters,1230
+1014,Nandini Loyal,,Operations,Operations Executive,female,1968-09-05,2020-04-17,2020-11-08,pune,nandini.loyal@company.com,Bachelors,1128
+1040,Girik Khalsa,,Operations,Operations Manager,FEMALE,2005-06-08,2018-11-12,2020-04-06,Mumbai,girik.khalsa@company.com,Diploma,1044
+1047,Balveer Bumb,,OPERATIONS,Operations Manager,M,2001-04-17,2019-06-03,,PUNE,balveer.bumb@company.com,Diploma,1068
+1075,Dipta Dash,,OPERATIONS,Operations Manager,female,1992-09-13,2019-01-08,,KOLKATA,dipta.dash@company.com,PhD,1187
+1108,Keya Ranganathan,,OPERATIONS,Logistics Coordinator,female,1968-06-08,2019-04-29,,,keya.ranganathan@company.com,Diploma,1373
+1123,Diya Dar  ,,operations,Operations Executive,M,1972-01-17,2020-06-21,,AHMEDABAD,diya.dar@company.com,Masters,1147
+1147,Balhaar Sha,,operations,Operations Executive,male,1986-04-16,2021-10-02,,Bengaluru,balhaar.sha@company.com,Masters,9999
+1159,Tamanna Nagy,,operations,Logistics Coordinator,F,1988-06-07,2021-03-22,2025-10-19,Chennai ,tamanna.nagy@company.com,Bachelors,9999
+1173,Nakul Borah  ,,OPERATIONS,Logistics Coordinator,MALE,1985-02-20,2025-08-25,,vijayawada,nakul.borah@company.com,Masters,1159
+1176,Anthony Randhawa,,OPERATIONS,Operations Manager,FEMALE,1989-04-21,2023-01-13,,BANGALORE,anthony.randhawa@company.com,PhD,1197
+1180,Gautam Merchant,,Operations,Logistics Coordinator,Female,1989-06-26,2021-12-26,,VISAKHAPATNAM,gautam.merchant@company.com,PhD,1044
+1187,Falak Kant,,operations,Logistics Coordinator,M,1976-05-06,2019-04-30,,Mumbai ,falak.kant@company.com,Bachelors,1346
+1197,Ekapad Johal,,operations,Logistics Coordinator,female,1972-03-30,2020-05-29,,Vijayawada,ekapad.johal@company.com,PhD,1249
+1223,Nachiket Dugar,,OPERATIONS,Operations Manager,MALE,1970-09-09,2022-12-31,2025-08-26,AHMEDABAD,nachiket.dugar@company.com,Bachelors,1140
+1279,Zehaan Babu,,OPERATIONS,Operations Executive,male,1982-02-28,2018-10-23,,Ahmedabad ,zehaan.babu@company.com,Bachelors,1368
+1283,Chaaya Jaggi,,OPERATIONS,Operations Manager,female,2003-04-27,2024-03-09,,Bangalore,chaaya.jaggi@company.com,PhD,1006
+1333,Zilmil Shan,,OPERATIONS,Operations Manager,Male,1980-02-12,2019-07-23,,Bangalore ,zilmil.shan@company.com,Bachelors,1116
+1356,Parth Sahni,,operations,Logistics Coordinator,male,1976-04-14,2023-09-05,,Mumbai,parth.sahni@company.com,Masters,
+1362,Geetika Merchant,,OPERATIONS,Logistics Coordinator,F,1994-10-08,2023-08-24,,Ahmedabad ,geetika.merchant@company.com,Masters,1373
+1368,Jacob Merchant,,OPERATIONS,Operations Executive,male,1973-07-12,2022-03-08,,delhi,jacob.merchant@company.com,PhD,1186
+1368,Jacob Merchant,,OPERATIONS,Operations Executive,male,1973-07-12,2022-03-08,,delhi,jacob.merchant@company.com,PhD,9999
+1373,Jackson Jha  ,,OPERATIONS,Logistics Coordinator,male,1973-09-17,2022-10-02,,Bengaluru,jackson.jha@company.com,Diploma,1368
+1044,Dipta Bhandari,,Operations ,Logistics Coordinator,Female,2004-04-09,2020-10-31,,Vijayawada ,dipta.bhandari@company.com,Masters,
+1054,Aishani D’Alia,,Operations ,Operations Manager,FEMALE,1971-05-25,2025-11-29,,ahmedabad,aishani.d’alia@company.com,Diploma,1173
+1116,Yagnesh Shetty,,Operations ,Operations Executive,female,1970-10-02,2025-02-07,2025-12-12,Bombay,yagnesh.shetty@company.com,Masters,1186
+1128,Advik Mane,,Operations ,Logistics Coordinator,male,1996-01-25,2023-07-25,2025-01-03,Chennai ,advik.mane@company.com,PhD,1040
+1132,Lajita Seshadri,,Operations ,Operations Executive,male,1990-07-02,2024-07-28,,Kolkata,lajita.seshadri@company.com,Diploma,1075
+1133,Dalaja Bhasin,,Operations ,Logistics Coordinator,male,1978-10-05,2025-09-22,,Vizag,dalaja.bhasin@company.com,Bachelors,1223
+1140,Reva Dash,,Operations ,Operations Manager,FEMALE,1997-07-31,2018-12-09,,Bangalore ,reva.dash@company.com,PhD,1356
+1155,Urmi Kohli,,Operations ,Operations Executive,F,1983-04-02,2024-02-07,,KOLKATA,urmi.kohli@company.com,Bachelors,1249
+1188,Chasmum Rege,,Operations ,Logistics Coordinator,F,1991-08-10,2023-08-22,,Ahmedabad,chasmum.rege@company.com,Bachelors,1316
+1229,Parth Dayal,,Operations ,Operations Executive,M,1967-10-03,2021-01-31,2023-03-25,ahmedabad,parth.dayal@company.com,Masters,1373
+1230,Ekbal Ranganathan,,Operations ,Logistics Coordinator,MALE,1986-06-21,2024-02-02,,Delhi,ekbal.ranganathan@company.com,Diploma,
+1249,Charles Natt,,Operations ,Operations Executive,F,1982-03-08,2025-10-20,,vijayawada,charles.natt@company.com,Bachelors,1133
+1316,Bimala Mittal,,Operations ,Operations Manager,FEMALE,1991-09-29,2021-10-16,,CHENNAI,bimala.mittal@company.com,Masters,1187
+1346,Bhavya Johal,,Operations ,Operations Manager,female,2004-06-06,2020-04-04,,Kolkata ,bhavya.johal@company.com,PhD,1116
+1068,Arjun Hans,,Ops,Logistics Coordinator,Female,2000-07-27,2025-01-08,2025-09-10,VISAKHAPATNAM,,Diploma,1373
+1154,Bishakha Upadhyay,,Ops,Operations Manager,Female,1999-01-31,2019-05-27,,PUNE,bishakha.upadhyay@company.com,Bachelors,1186
+1186,Lakshmi Prabhu,,Ops,Logistics Coordinator,male,1995-12-04,2021-05-29,,vijayawada,lakshmi.prabhu@company.com,Masters,1140
+1251,Gauri Bumb,,Ops,Operations Manager,F,1992-05-30,2024-04-01,,,gauri.bumb@company.com,Diploma,1133
+1324,Darika Tank,,Ops,Operations Executive,Male,1987-01-08,2022-06-12,,Delhi ,darika.tank@company.com,Bachelors,1132
+1349,Hiral Sathe,,Ops,Operations Executive,Male,1978-05-23,2020-10-13,,CHENNAI,hiral.sathe@company.com,Masters,1279
+1357,Mekhala Tandon,,Ops,Operations Manager,MALE,1974-02-20,2025-07-08,,Chennai,,PhD,1068
+1002,Pahal Balay,,Sales,Sales Executive,M,1971-05-10,2019-07-30,,Bombay,pahal.balay@company.com,Diploma,1026
+1016,Luke Lanka,,sales,Sales Executive,Female,2002-03-19,2021-08-16,,Vijayawada,luke.lanka@company.com,Diploma,1023
+1020,Upadhriti Wadhwa,,Sales,Sales Executive,male,1969-11-15,2021-11-02,2023-02-14,Hyderabad,upadhriti.wadhwa@company.com,Masters,1344
+1023,Chanchal Tripathi,,Sales,Sales Executive,F,1996-06-01,2026-03-26,,hyderabad,chanchal.tripathi@company.com,Masters,1208
+1026,Vedika Biswas,,SALES,Sales Manager,MALE,2003-06-12,2025-06-25,,Vizag,,Diploma,1062
+1037,Yuvraj Handa,,SALES,Sales Executive,M,1980-05-09,2021-09-06,,BANGALORE,yuvraj.handa@company.com,Masters,1399
+1038,Qadim Mallick,,sales,Account Manager,M,1984-07-04,2019-12-25,,Vijayawada,qadim.mallick@company.com,PhD,1061
+1043,Mohammed Gupta,,SALES,Sales Executive,Male,2003-11-03,2021-11-04,,Pune,mohammed.gupta@company.com,Diploma,1002
+1062,Ishita Kade,,SALES,Account Manager,female,2004-05-28,2025-12-03,,VISAKHAPATNAM,ishita.kade@company.com,PhD,1369
+1062,Ishita Kade,,SALES,Account Manager,female,2004-05-28,2025-12-03,,VISAKHAPATNAM,ishita.kade@company.com,PhD,1369
+1074,Januja Sankar,,sales,Sales Executive,male,1967-07-11,2024-02-17,,PUNE,januja.sankar@company.com,Diploma,1058
+1103,Charles Palla,,Sales,Sales Executive,FEMALE,1970-07-28,2020-06-23,,Mumbai,charles.palla@company.com,Bachelors,1074
+1141,Anita Tella,,SALES,Sales Manager,M,1979-01-06,2022-03-18,2024-07-31,visakhapatnam,anita.tella@company.com,PhD,1038
+1145,Gavin Singhal,,SALES,Account Manager,Female,1984-01-10,2026-06-08,,Chennai ,gavin.singhal@company.com,Bachelors,1261
+1165,Falguni Walla,,sales,Sales Associate,FEMALE,1993-10-13,2021-03-02,,Hyderabad,falguni.walla@company.com,PhD,1341
+1191,Mohammed Sachdeva,,sales,Sales Executive,male,1993-12-05,2026-01-20,,kolkata,mohammed.sachdeva@company.com,PhD,
+1196,Chandresh Nath,,sales,Sales Manager,female,1990-02-25,2023-08-05,,Delhi ,chandresh.nath@company.com,Masters,1339
+1206,Faris Nagy,,sales,Sales Manager,F,2002-01-11,2022-05-20,,VIJAYAWADA,faris.nagy@company.com,PhD,1210
+1231,Tripti Brahmbhatt,,Sales,Sales Associate,FEMALE,1969-01-25,2025-05-09,,CHENNAI,tripti.brahmbhatt@company.com,Bachelors,1210
+1233,Onveer Sharma,,sales,Sales Executive,M,1968-04-02,2019-05-20,,DELHI,onveer.sharma@company.com,PhD,9999
+1263,Yadavi Wable,,SALES,Sales Executive,MALE,1978-03-02,2022-02-25,,Vizag,yadavi.wable@company.com,Bachelors,1016
+1284,Diya Mukherjee,,sales,Sales Executive,F,1975-01-15,2018-10-23,,Hyd,diya.mukherjee@company.com,Masters,9999
+1301,Vritti Iyengar,,SALES,Account Manager,M,1975-08-13,2024-02-03,,Chennai ,vritti.iyengar@company.com,Diploma,1059
+1329,Janani Mani  ,,SALES,Account Manager,F,1989-02-17,2021-08-31,,Mumbai ,janani.mani@company.com,PhD,1380
+1331,Jasmit Dhawan,,SALES,Account Manager,Female,1997-09-01,2021-08-11,,hyderabad,jasmit.dhawan@company.com,Masters,
+1339,Manbir Kibe,,Sales,Sales Associate,M,1991-05-13,2019-10-29,2020-03-11,Delhi,manbir.kibe@company.com,Bachelors,1002
+1340,Ridhi Murthy  ,,SALES,Sales Manager,Male,1971-08-21,2026-01-16,,CHENNAI,ridhi.murthy@company.com,Bachelors,1400
+1341,Nirja Thaker,,Sales,Sales Executive,female,1983-02-25,2021-10-23,,Mumbai,nirja.thaker@company.com,Bachelors,1331
+1386,Yash Basu,,SALES,Sales Manager,FEMALE,1968-09-26,2019-04-08,,Pune ,yash.basu@company.com,PhD,1263
+1388,Ekani Khalsa,,Sales,Account Manager,FEMALE,1978-06-14,2022-06-28,,Kolkata,ekani.khalsa@company.com,PhD,1023
+1399,Siddharth Gupta  ,,Sales,Sales Executive,male,1980-02-11,2025-05-31,,Calcutta,siddharth.gupta@company.com,Masters,1366
+1400,Xavier Jayaraman,,SALES,Sales Executive,male,1971-12-02,2026-02-26,,mumbai,xavier.jayaraman@company.com,Bachelors,1231
+1406,Januja Sankar.,,sales,Sales Executive,male,1967-07-11,2024-02-17,,PUNE,januja.sankar@company.com,Diploma,1058
+1025,Damyanti Khatri,,Sales ,Sales Executive,MALE,1971-09-17,2022-05-15,2022-10-05,bangalore,damyanti.khatri@company.com,Diploma,1261
+1059,Aditya Choudhury,,Sales ,Account Manager,F,1988-06-04,2024-05-22,,Pune ,aditya.choudhury@company.com,Masters,1341
+1061,Benjamin Morar,,Sales ,Sales Associate,M,1973-02-01,2023-02-13,2024-06-10,Ahmedabad ,benjamin.morar@company.com,Masters,1339
+1127,Brinda Date,,Sales ,Sales Associate,FEMALE,1969-03-10,2019-06-22,,Visakhapatnam,brinda.date@company.com,Bachelors,1191
+1137,Ekavir Kaur,,Sales ,Sales Executive,male,1994-04-29,2020-04-24,,kolkata,ekavir.kaur@company.com,PhD,1399
+1169,Chaaya Parmer,,Sales ,Sales Manager,Female,1969-03-17,2025-09-07,2026-01-28,visakhapatnam,chaaya.parmer@company.com,Masters,1301
+1210,Ojasvi Chandran,,Sales ,Sales Executive,M,1998-11-26,2021-10-08,,Mumbai ,ojasvi.chandran@company.com,Masters,1366
+1261,William More,,Sales ,Sales Manager,Male,1997-03-31,2024-06-23,,AHMEDABAD,william.more@company.com,Masters,1191
+1295,Luke Sarma,,Sales ,Account Manager,FEMALE,1993-04-12,2024-11-13,2025-01-30,Bombay,luke.sarma@company.com,Bachelors,1058
+1315,Alka Kade,,Sales ,Sales Manager,Female,1968-07-15,2025-01-22,2026-03-04,Delhi ,alka.kade@company.com,Bachelors,1341
+1363,Nidra Sane,,Sales ,Sales Executive,male,1996-03-28,2023-01-01,,VIJAYAWADA,nidra.sane@company.com,PhD,1315
+1366,Chasmum Apte,,Sales ,Sales Manager,Female,1996-02-08,2020-05-05,,,chasmum.apte@company.com,Diploma,1062
+1370,Ojasvi Sinha,,Sales ,Sales Associate,F,2005-01-14,2022-02-05,,Kolkata ,ojasvi.sinha@company.com,PhD,1002
+1380,Ijaya Dani,,Sales ,Sales Manager,F,1992-08-10,2023-12-03,,Bangalore ,ijaya.dani@company.com,Bachelors,1233
+1390,Prisha Tandon,,Sales ,Sales Associate,male,1988-08-13,2020-08-29,,VIJAYAWADA,prisha.tandon@company.com,Diploma,1196
+1404,Ojasvi Sinha,,Sales ,Sales Associate,F,2005-01-14,2022-02-05,,Kolkata ,ojasvi.sinha@company.com,PhD,1002
+1028,Siddharth Zacharia,,Sales Dept,Sales Associate,Male,1973-09-25,2026-01-12,2026-05-25,kolkata,siddharth.zacharia@company.com,Bachelors,
+1048,Advika Jayaraman,,Sales Dept,Account Manager,male,1989-08-22,2021-10-24,,Pune ,advika.jayaraman@company.com,Diploma,1025
+1058,Adweta Edwin,,Sales Dept,Sales Manager,Female,1980-02-19,2018-10-24,,VISAKHAPATNAM,adweta.edwin@company.com,Diploma,
+1094,David Jhaveri,,Sales Dept,Sales Manager,FEMALE,1988-01-30,2021-09-20,,Chennai,david.jhaveri@company.com,Masters,1339
+1208,Yashasvi Sani,,Sales Dept,Account Manager,male,1987-08-16,2026-06-01,,Vijayawada,yashasvi.sani@company.com,Diploma,1329
+1280,Hemang Natarajan,,Sales Dept,Sales Executive,M,1970-01-10,2021-04-26,,Pune ,hemang.natarajan@company.com,PhD,1363
+1344,Irya Lalla,,Sales Dept,Sales Manager,FEMALE,1984-12-05,2026-02-10,,Pune,irya.lalla@company.com,Bachelors,1301
+1365,Advika Rajagopal,,Sales Dept,Sales Associate,FEMALE,2003-01-09,2022-04-12,,bangalore,advika.rajagopal@company.com,Bachelors,1191
+1369,Vanya Dua,,Sales Dept,Sales Manager,MALE,1975-11-08,2021-05-26,,Bangalore ,vanya.dua@company.com,Masters,1233
+1374,Christopher Setty,,Sales Dept,Sales Associate,Female,1986-01-13,2024-03-12,2024-08-20,Bangalore,christopher.setty@company.com,Bachelors,1043
+1013,Ekta Bhalla,,Support,Support Team Lead,Female,1991-10-13,2026-05-17,,Ahmedabad,ekta.bhalla@company.com,PhD,1030
+1063,Niharika Dubey,,Support,Support Team Lead,Female,1992-10-21,2023-12-01,2026-04-14,Bengaluru,niharika.dubey@company.com,Masters,1201
+1203,Siya Thakur,,Support,Support Team Lead,F,1997-01-09,2022-04-09,2023-04-29,HYDERABAD,siya.thakur@company.com,PhD,1039
+1234,Rajeshri Cherian,,Support,Support Team Lead,F,2002-05-31,2025-02-11,2025-07-26,Vizag,rajeshri.cherian@company.com,Bachelors,1030
+1278,Madhavi Singhal,,Support,Customer Success Manager,Female,1981-03-01,2022-08-25,,Hyderabad,madhavi.singhal@company.com,Masters,1269
+1294,Falan Ravi,,Support,Customer Success Manager,Female,1997-07-15,2023-07-29,2024-09-22,delhi,falan.ravi@company.com,PhD,1119
+1323,Ranveer Dutta,,Support,Support Team Lead,Male,2002-12-11,2024-12-19,,Kolkata ,ranveer.dutta@company.com,Diploma,1084
